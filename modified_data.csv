@@ -1,0 +1,1001 @@
+CustomerID,PurchaseDate,TransactionAmount,ProductInformation,OrderID,Location,Recency,Frequency,Monetary,RecencyScore,FrequencyScore,MonetaryScore,RFM_Score,Value Segment,RFM Customer Segments
+8814,2023-04-11,943.31,Product C,890075,Tokyo,353,1,943.31,1,1,2,4,Low-Value,Can't Lose
+2188,2023-04-11,463.7,Product A,176819,London,353,1,463.7,1,1,1,3,Low-Value,Lost
+4608,2023-04-11,80.28,Product A,340062,New York,353,1,80.28,1,1,1,3,Low-Value,Lost
+2559,2023-04-11,221.29,Product A,239145,London,353,1,221.29,1,1,1,3,Low-Value,Lost
+9482,2023-04-11,739.56,Product A,194545,Paris,353,1,739.56,1,1,2,4,Low-Value,Can't Lose
+8483,2023-04-11,375.23,Product C,691194,Paris,353,1,375.23,1,1,1,3,Low-Value,Lost
+8317,2023-04-11,272.56,Product B,826847,New York,353,2,974.8800000000001,1,3,3,7,Mid-Value,Potential Loyalists
+6911,2023-04-11,433.33,Product C,963918,Tokyo,353,1,433.33,1,1,1,3,Low-Value,Lost
+8993,2023-04-12,16.55,Product D,112426,New York,352,1,16.55,1,1,1,3,Low-Value,Lost
+3519,2023-04-12,464.63,Product C,139726,New York,352,1,464.63,1,1,1,3,Low-Value,Lost
+9005,2023-04-12,120.75,Product C,972064,Paris,352,1,120.75,1,1,1,3,Low-Value,Lost
+9409,2023-04-12,865.98,Product A,597126,London,352,1,865.98,1,1,2,4,Low-Value,Can't Lose
+5670,2023-04-12,392.7,Product B,995296,London,352,1,392.7,1,1,1,3,Low-Value,Lost
+8724,2023-04-12,623.35,Product C,739717,London,352,1,623.35,1,1,2,4,Low-Value,Can't Lose
+9148,2023-04-12,99.15,Product D,629996,Tokyo,352,1,99.15,1,1,1,3,Low-Value,Lost
+5837,2023-04-12,978.17,Product D,387813,New York,352,1,978.17,1,1,3,5,Low-Value,At Risk Customers
+2767,2023-04-12,299.57,Product D,342397,Tokyo,352,1,299.57,1,1,1,3,Low-Value,Lost
+2824,2023-04-12,744.13,Product B,334053,London,352,1,744.13,1,1,2,4,Low-Value,Can't Lose
+9128,2023-04-12,388.9,Product D,281201,Paris,352,1,388.9,1,1,1,3,Low-Value,Lost
+1520,2023-04-12,102.76,Product B,629903,New York,352,1,102.76,1,1,1,3,Low-Value,Lost
+8719,2023-04-12,338.56,Product B,313701,Paris,352,1,338.56,1,1,1,3,Low-Value,Lost
+8529,2023-04-12,132.99,Product B,562721,Tokyo,352,1,132.99,1,1,1,3,Low-Value,Lost
+8705,2023-04-12,751.53,Product A,466960,London,352,1,751.53,1,1,2,4,Low-Value,Can't Lose
+6347,2023-04-12,637.78,Product D,614435,London,352,1,637.78,1,1,2,4,Low-Value,Can't Lose
+4161,2023-04-12,692.36,Product C,859587,London,352,1,692.36,1,1,2,4,Low-Value,Can't Lose
+2228,2023-04-12,997.19,Product B,777366,Tokyo,352,1,997.19,1,1,3,5,Low-Value,At Risk Customers
+6638,2023-04-12,417.64,Product C,812597,London,352,1,417.64,1,1,1,3,Low-Value,Lost
+5533,2023-04-13,13.51,Product B,768061,Paris,351,1,13.51,1,1,1,3,Low-Value,Lost
+9871,2023-04-13,849.53,Product C,750817,Paris,351,2,1820.53,1,3,4,8,High-Value,Potential Loyalists
+9864,2023-04-13,621.28,Product B,761820,Paris,351,1,621.28,1,1,2,4,Low-Value,Can't Lose
+1146,2023-04-13,585.27,Product D,821846,London,351,1,585.27,1,1,2,4,Low-Value,Can't Lose
+9115,2023-04-13,134.98,Product C,205239,Tokyo,351,1,134.98,1,1,1,3,Low-Value,Lost
+5494,2023-04-13,974.55,Product C,831295,London,351,1,974.55,1,1,3,5,Low-Value,At Risk Customers
+4190,2023-04-13,786.12,Product B,745073,London,351,1,786.12,1,1,2,4,Low-Value,Can't Lose
+5583,2023-04-13,693.38,Product B,564920,Tokyo,351,2,839.24,1,3,2,6,Mid-Value,Potential Loyalists
+2617,2023-04-13,575.3,Product D,789880,Tokyo,351,1,575.3,1,1,2,4,Low-Value,Can't Lose
+6878,2023-04-13,226.63,Product D,343007,New York,351,1,226.63,1,1,1,3,Low-Value,Lost
+5349,2023-04-13,117.32,Product D,462479,Paris,351,1,117.32,1,1,1,3,Low-Value,Lost
+5173,2023-04-13,711.7,Product A,645175,London,351,1,711.7,1,1,2,4,Low-Value,Can't Lose
+8216,2023-04-13,924.97,Product B,309385,Paris,351,2,1117.49,1,3,3,7,Mid-Value,Potential Loyalists
+4302,2023-04-13,793.2,Product A,430926,Paris,351,1,793.2,1,1,2,4,Low-Value,Can't Lose
+5087,2023-04-13,461.88,Product C,838862,London,351,1,461.88,1,1,1,3,Low-Value,Lost
+2524,2023-04-13,922.06,Product D,834891,Paris,351,1,922.06,1,1,2,4,Low-Value,Can't Lose
+2741,2023-04-13,897.91,Product D,247271,Tokyo,351,2,1104.57,1,3,3,7,Mid-Value,Potential Loyalists
+2139,2023-04-13,664.65,Product C,183667,London,351,1,664.65,1,1,2,4,Low-Value,Can't Lose
+5919,2023-04-13,812.08,Product A,123682,Paris,351,1,812.08,1,1,2,4,Low-Value,Can't Lose
+7781,2023-04-13,566.9,Product B,877259,London,351,1,566.9,1,1,2,4,Low-Value,Can't Lose
+9584,2023-04-13,840.68,Product A,957730,New York,351,2,1242.49,1,3,3,7,Mid-Value,Potential Loyalists
+2848,2023-04-13,811.38,Product D,744793,New York,351,1,811.38,1,1,2,4,Low-Value,Can't Lose
+1742,2023-04-13,145.67,Product C,943019,Tokyo,351,1,145.67,1,1,1,3,Low-Value,Lost
+3676,2023-04-14,223.31,Product C,599687,New York,350,1,223.31,1,1,1,3,Low-Value,Lost
+9120,2023-04-14,972.57,Product D,923975,Paris,350,1,972.57,1,1,3,5,Low-Value,At Risk Customers
+3573,2023-04-14,110.25,Product B,299212,Tokyo,350,2,292.33000000000004,1,3,1,5,Low-Value,At Risk Customers
+2169,2023-04-14,174.26,Product C,723948,Paris,350,1,174.26,1,1,1,3,Low-Value,Lost
+4401,2023-04-14,192.99,Product A,785010,Paris,350,2,508.21000000000004,1,3,2,6,Mid-Value,Potential Loyalists
+8552,2023-04-14,176.31,Product D,961599,Tokyo,350,1,176.31,1,1,1,3,Low-Value,Lost
+4909,2023-04-14,252.03,Product D,221620,Tokyo,350,1,252.03,1,1,1,3,Low-Value,Lost
+9985,2023-04-14,36.1,Product D,649435,New York,350,1,36.1,1,1,1,3,Low-Value,Lost
+7770,2023-04-14,195.71,Product C,752878,Tokyo,350,1,195.71,1,1,1,3,Low-Value,Lost
+7797,2023-04-14,402.49,Product C,347231,Tokyo,350,2,510.52,1,3,2,6,Mid-Value,Potential Loyalists
+3406,2023-04-14,174.68,Product B,641737,Tokyo,350,1,174.68,1,1,1,3,Low-Value,Lost
+1323,2023-04-14,692.85,Product D,565897,Tokyo,350,1,692.85,1,1,2,4,Low-Value,Can't Lose
+2200,2023-04-14,186.21,Product C,685193,New York,350,1,186.21,1,1,1,3,Low-Value,Lost
+5557,2023-04-14,511.86,Product D,522866,London,350,3,2379.45,1,5,5,11,High-Value,Champions
+1616,2023-04-14,375.05,Product C,180458,New York,350,1,375.05,1,1,1,3,Low-Value,Lost
+5347,2023-04-14,135.49,Product D,651640,New York,350,1,135.49,1,1,1,3,Low-Value,Lost
+4923,2023-04-14,248.46,Product A,189814,Tokyo,350,1,248.46,1,1,1,3,Low-Value,Lost
+1936,2023-04-14,588.34,Product B,159642,New York,350,1,588.34,1,1,2,4,Low-Value,Can't Lose
+3340,2023-04-15,535.2,Product A,739966,London,349,1,535.2,1,1,2,4,Low-Value,Can't Lose
+7461,2023-04-15,595.98,Product A,556112,London,349,1,595.98,1,1,2,4,Low-Value,Can't Lose
+5224,2023-04-15,388.85,Product B,809794,London,349,1,388.85,1,1,1,3,Low-Value,Lost
+7429,2023-04-15,547.76,Product B,301528,Paris,349,1,547.76,1,1,2,4,Low-Value,Can't Lose
+2444,2023-04-15,270.46,Product C,183927,New York,349,1,270.46,1,1,1,3,Low-Value,Lost
+3709,2023-04-15,753.92,Product C,352593,Paris,349,1,753.92,1,1,2,4,Low-Value,Can't Lose
+1753,2023-04-15,269.0,Product C,112960,London,349,1,269.0,1,1,1,3,Low-Value,Lost
+8770,2023-04-15,100.31,Product A,197758,Tokyo,349,1,100.31,1,1,1,3,Low-Value,Lost
+6482,2023-04-15,336.39,Product D,397949,Paris,349,1,336.39,1,1,1,3,Low-Value,Lost
+3538,2023-04-15,302.83,Product A,632351,New York,349,1,302.83,1,1,1,3,Low-Value,Lost
+1136,2023-04-15,394.76,Product C,795186,Paris,349,1,394.76,1,1,1,3,Low-Value,Lost
+2832,2023-04-15,945.6,Product B,672092,New York,349,1,945.6,1,1,2,4,Low-Value,Can't Lose
+6201,2023-04-15,561.77,Product A,293079,Paris,349,1,561.77,1,1,2,4,Low-Value,Can't Lose
+4044,2023-04-15,599.08,Product B,523389,New York,349,1,599.08,1,1,2,4,Low-Value,Can't Lose
+3153,2023-04-16,910.53,Product C,883790,Tokyo,348,1,910.53,1,1,2,4,Low-Value,Can't Lose
+1502,2023-04-16,748.65,Product B,494468,Tokyo,348,1,748.65,1,1,2,4,Low-Value,Can't Lose
+9584,2023-04-16,401.81,Product C,882033,Paris,348,2,1242.49,1,3,3,7,Mid-Value,Potential Loyalists
+7955,2023-04-16,436.3,Product B,671971,Paris,348,1,436.3,1,1,1,3,Low-Value,Lost
+8292,2023-04-16,812.41,Product C,800280,Paris,348,1,812.41,1,1,2,4,Low-Value,Can't Lose
+9740,2023-04-16,507.55,Product B,720556,London,348,1,507.55,1,1,2,4,Low-Value,Can't Lose
+1464,2023-04-16,55.01,Product C,782759,London,348,1,55.01,1,1,1,3,Low-Value,Lost
+4814,2023-04-16,159.18,Product D,327738,Paris,348,1,159.18,1,1,1,3,Low-Value,Lost
+9008,2023-04-16,899.9,Product D,947975,New York,348,1,899.9,1,1,2,4,Low-Value,Can't Lose
+6077,2023-04-16,516.19,Product B,947312,London,348,1,516.19,1,1,2,4,Low-Value,Can't Lose
+4559,2023-04-16,897.63,Product B,888996,New York,348,1,897.63,1,1,2,4,Low-Value,Can't Lose
+5102,2023-04-16,378.13,Product B,154302,Tokyo,348,1,378.13,1,1,1,3,Low-Value,Lost
+3807,2023-04-16,504.86,Product D,776234,Paris,348,1,504.86,1,1,2,4,Low-Value,Can't Lose
+8239,2023-04-16,605.2,Product A,356600,Paris,348,1,605.2,1,1,2,4,Low-Value,Can't Lose
+8449,2023-04-16,257.58,Product B,853270,New York,348,1,257.58,1,1,1,3,Low-Value,Lost
+3110,2023-04-16,906.03,Product C,228479,New York,348,1,906.03,1,1,2,4,Low-Value,Can't Lose
+4271,2023-04-17,35.48,Product B,769191,Paris,347,1,35.48,1,1,1,3,Low-Value,Lost
+9042,2023-04-17,873.99,Product C,592198,Tokyo,347,1,873.99,1,1,2,4,Low-Value,Can't Lose
+7224,2023-04-17,365.39,Product C,733052,Paris,347,1,365.39,1,1,1,3,Low-Value,Lost
+2902,2023-04-17,242.45,Product B,507524,Tokyo,347,1,242.45,1,1,1,3,Low-Value,Lost
+1803,2023-04-17,422.79,Product B,269172,Paris,347,2,1033.13,1,3,3,7,Mid-Value,Potential Loyalists
+7965,2023-04-17,738.63,Product B,412170,New York,347,1,738.63,1,1,2,4,Low-Value,Can't Lose
+4871,2023-04-17,154.98,Product B,281926,London,347,1,154.98,1,1,1,3,Low-Value,Lost
+8909,2023-04-17,302.48,Product A,221707,London,347,1,302.48,1,1,1,3,Low-Value,Lost
+6262,2023-04-17,89.27,Product C,421384,Tokyo,347,1,89.27,1,1,1,3,Low-Value,Lost
+1879,2023-04-17,442.72,Product A,457137,Tokyo,347,1,442.72,1,1,1,3,Low-Value,Lost
+3937,2023-04-17,918.87,Product B,352674,London,347,1,918.87,1,1,2,4,Low-Value,Can't Lose
+1820,2023-04-17,815.05,Product A,993647,Paris,347,1,815.05,1,1,2,4,Low-Value,Can't Lose
+5813,2023-04-17,476.07,Product C,860413,London,347,1,476.07,1,1,1,3,Low-Value,Lost
+9564,2023-04-17,35.02,Product B,155642,New York,347,2,945.27,1,3,2,6,Mid-Value,Potential Loyalists
+3308,2023-04-17,60.1,Product D,745270,Tokyo,347,1,60.1,1,1,1,3,Low-Value,Lost
+3103,2023-04-17,393.53,Product C,628597,Tokyo,347,1,393.53,1,1,1,3,Low-Value,Lost
+6096,2023-04-17,582.9,Product C,703766,Tokyo,347,1,582.9,1,1,2,4,Low-Value,Can't Lose
+2809,2023-04-17,527.97,Product A,145903,London,347,1,527.97,1,1,2,4,Low-Value,Can't Lose
+5476,2023-04-18,801.35,Product D,519453,Tokyo,346,1,801.35,1,1,2,4,Low-Value,Can't Lose
+8490,2023-04-18,701.26,Product D,430984,New York,346,1,701.26,1,1,2,4,Low-Value,Can't Lose
+8195,2023-04-18,474.01,Product C,833723,Tokyo,346,1,474.01,1,1,1,3,Low-Value,Lost
+9418,2023-04-18,383.43,Product D,392670,Paris,346,1,383.43,1,1,1,3,Low-Value,Lost
+4279,2023-04-18,144.37,Product A,574001,London,346,1,144.37,1,1,1,3,Low-Value,Lost
+8414,2023-04-18,106.46,Product B,102303,Paris,346,1,106.46,1,1,1,3,Low-Value,Lost
+2029,2023-04-18,838.32,Product D,725726,New York,346,1,838.32,1,1,2,4,Low-Value,Can't Lose
+4568,2023-04-18,243.61,Product D,440277,New York,346,1,243.61,1,1,1,3,Low-Value,Lost
+9369,2023-04-18,576.99,Product C,912764,Paris,346,1,576.99,1,1,2,4,Low-Value,Can't Lose
+6169,2023-04-18,745.45,Product B,300845,London,346,1,745.45,1,1,2,4,Low-Value,Can't Lose
+9561,2023-04-18,524.56,Product D,786341,London,346,1,524.56,1,1,2,4,Low-Value,Can't Lose
+3858,2023-04-18,664.45,Product A,238205,New York,346,1,664.45,1,1,2,4,Low-Value,Can't Lose
+2494,2023-04-18,709.16,Product C,189450,Tokyo,346,2,1063.6399999999999,1,3,3,7,Mid-Value,Potential Loyalists
+4990,2023-04-19,789.11,Product B,171942,London,345,1,789.11,1,1,2,4,Low-Value,Can't Lose
+3392,2023-04-19,47.92,Product D,829884,London,345,1,47.92,1,1,1,3,Low-Value,Lost
+2911,2023-04-19,54.89,Product A,419149,Tokyo,345,1,54.89,1,1,1,3,Low-Value,Lost
+2749,2023-04-19,192.9,Product C,735022,London,345,1,192.9,1,1,1,3,Low-Value,Lost
+7971,2023-04-19,261.97,Product B,187889,Paris,345,2,816.85,1,3,2,6,Mid-Value,Potential Loyalists
+6447,2023-04-19,53.89,Product C,953025,London,345,1,53.89,1,1,1,3,Low-Value,Lost
+7484,2023-04-19,674.97,Product C,579434,Paris,345,1,674.97,1,1,2,4,Low-Value,Can't Lose
+7421,2023-04-19,599.09,Product A,424620,Tokyo,345,1,599.09,1,1,2,4,Low-Value,Can't Lose
+4157,2023-04-19,52.25,Product A,816308,Tokyo,345,1,52.25,1,1,1,3,Low-Value,Lost
+5450,2023-04-19,118.13,Product B,354235,New York,345,1,118.13,1,1,1,3,Low-Value,Lost
+9835,2023-04-19,657.0,Product C,224395,London,345,1,657.0,1,1,2,4,Low-Value,Can't Lose
+1924,2023-04-19,508.86,Product C,345536,Paris,345,1,508.86,1,1,2,4,Low-Value,Can't Lose
+1706,2023-04-19,577.75,Product B,241268,New York,345,1,577.75,1,1,2,4,Low-Value,Can't Lose
+8429,2023-04-19,518.12,Product D,691303,New York,345,1,518.12,1,1,2,4,Low-Value,Can't Lose
+3878,2023-04-19,386.41,Product B,624563,Paris,345,1,386.41,1,1,1,3,Low-Value,Lost
+9488,2023-04-20,311.08,Product B,438334,London,344,1,311.08,1,1,1,3,Low-Value,Lost
+9129,2023-04-20,337.86,Product A,349556,Paris,344,1,337.86,1,1,1,3,Low-Value,Lost
+1601,2023-04-20,855.29,Product C,447195,New York,344,2,952.47,1,3,2,6,Mid-Value,Potential Loyalists
+1317,2023-04-20,59.14,Product A,294969,New York,344,1,59.14,1,1,1,3,Low-Value,Lost
+3485,2023-04-20,813.03,Product C,189318,London,344,1,813.03,1,1,2,4,Low-Value,Can't Lose
+1510,2023-04-20,850.18,Product D,136489,London,344,1,850.18,1,1,2,4,Low-Value,Can't Lose
+2009,2023-04-20,754.71,Product A,189870,Paris,344,1,754.71,1,1,2,4,Low-Value,Can't Lose
+4695,2023-04-20,348.37,Product D,788842,London,344,2,805.14,1,3,2,6,Mid-Value,Potential Loyalists
+8017,2023-04-21,14.78,Product B,923824,London,343,1,14.78,1,1,1,3,Low-Value,Lost
+8871,2023-04-21,528.99,Product D,254954,London,343,1,528.99,1,1,2,4,Low-Value,Can't Lose
+6293,2023-04-21,632.87,Product A,880900,New York,343,1,632.87,1,1,2,4,Low-Value,Can't Lose
+5994,2023-04-21,987.78,Product D,753453,London,343,1,987.78,1,1,3,5,Low-Value,At Risk Customers
+8269,2023-04-21,697.06,Product A,148225,Paris,343,1,697.06,1,1,2,4,Low-Value,Can't Lose
+8123,2023-04-21,459.19,Product C,624902,London,343,1,459.19,1,1,1,3,Low-Value,Lost
+7981,2023-04-21,692.87,Product C,568849,New York,343,1,692.87,1,1,2,4,Low-Value,Can't Lose
+4695,2023-04-21,456.77,Product A,409234,New York,343,2,805.14,1,3,2,6,Mid-Value,Potential Loyalists
+8310,2023-04-21,187.35,Product B,871667,Tokyo,343,1,187.35,1,1,1,3,Low-Value,Lost
+9276,2023-04-21,421.77,Product D,196411,Paris,343,1,421.77,1,1,1,3,Low-Value,Lost
+9537,2023-04-21,688.46,Product B,245584,Paris,343,1,688.46,1,1,2,4,Low-Value,Can't Lose
+9267,2023-04-21,131.93,Product A,493417,Paris,343,1,131.93,1,1,1,3,Low-Value,Lost
+6234,2023-04-21,639.82,Product A,961574,Paris,343,1,639.82,1,1,2,4,Low-Value,Can't Lose
+2481,2023-04-21,809.52,Product C,966529,New York,343,1,809.52,1,1,2,4,Low-Value,Can't Lose
+6770,2023-04-21,148.56,Product D,292988,New York,343,1,148.56,1,1,1,3,Low-Value,Lost
+6816,2023-04-21,650.53,Product A,690579,Tokyo,343,1,650.53,1,1,2,4,Low-Value,Can't Lose
+3131,2023-04-21,588.15,Product C,105919,Paris,343,1,588.15,1,1,2,4,Low-Value,Can't Lose
+3527,2023-04-21,189.04,Product B,856215,Tokyo,343,1,189.04,1,1,1,3,Low-Value,Lost
+5371,2023-04-21,789.5,Product A,501124,New York,343,1,789.5,1,1,2,4,Low-Value,Can't Lose
+7043,2023-04-21,609.83,Product A,915573,London,343,1,609.83,1,1,2,4,Low-Value,Can't Lose
+4450,2023-04-21,403.08,Product A,166891,Tokyo,343,1,403.08,1,1,1,3,Low-Value,Lost
+7151,2023-04-21,734.67,Product A,454366,Tokyo,343,1,734.67,1,1,2,4,Low-Value,Can't Lose
+2296,2023-04-21,350.19,Product C,432270,Paris,343,1,350.19,1,1,1,3,Low-Value,Lost
+2234,2023-04-22,951.78,Product D,586490,Tokyo,342,1,951.78,1,1,2,4,Low-Value,Can't Lose
+2083,2023-04-22,927.83,Product D,747033,Tokyo,342,1,927.83,1,1,2,4,Low-Value,Can't Lose
+4022,2023-04-22,644.07,Product D,514798,New York,342,1,644.07,1,1,2,4,Low-Value,Can't Lose
+2577,2023-04-22,481.11,Product A,921945,New York,342,1,481.11,1,1,1,3,Low-Value,Lost
+4585,2023-04-22,806.07,Product D,152657,London,342,1,806.07,1,1,2,4,Low-Value,Can't Lose
+5557,2023-04-22,996.98,Product D,765620,Tokyo,342,3,2379.45,1,5,5,11,High-Value,Champions
+2121,2023-04-22,145.26,Product A,767830,Tokyo,342,1,145.26,1,1,1,3,Low-Value,Lost
+8178,2023-04-22,615.21,Product C,741055,New York,342,1,615.21,1,1,2,4,Low-Value,Can't Lose
+4164,2023-04-22,614.84,Product D,967161,Tokyo,342,1,614.84,1,1,2,4,Low-Value,Can't Lose
+9821,2023-04-22,979.58,Product C,472358,Paris,342,1,979.58,1,1,3,5,Low-Value,At Risk Customers
+8135,2023-04-22,736.46,Product C,745830,Tokyo,342,1,736.46,1,1,2,4,Low-Value,Can't Lose
+5254,2023-04-22,553.08,Product B,382495,Tokyo,342,2,1132.47,1,3,3,7,Mid-Value,Potential Loyalists
+9796,2023-04-22,372.14,Product B,579776,New York,342,1,372.14,1,1,1,3,Low-Value,Lost
+3877,2023-04-23,140.84,Product C,656639,Paris,341,1,140.84,2,1,1,4,Low-Value,Can't Lose
+9571,2023-04-23,364.34,Product D,409698,London,341,1,364.34,2,1,1,4,Low-Value,Can't Lose
+4755,2023-04-23,836.59,Product C,263573,New York,341,1,836.59,2,1,2,5,Low-Value,At Risk Customers
+5470,2023-04-23,810.73,Product C,270387,Tokyo,341,1,810.73,2,1,2,5,Low-Value,At Risk Customers
+3846,2023-04-23,876.43,Product B,977633,New York,341,1,876.43,2,1,2,5,Low-Value,At Risk Customers
+4054,2023-04-23,505.64,Product D,687923,New York,341,1,505.64,2,1,2,5,Low-Value,At Risk Customers
+3363,2023-04-23,606.44,Product D,624369,New York,341,1,606.44,2,1,2,5,Low-Value,At Risk Customers
+5105,2023-04-23,638.71,Product C,231250,Paris,341,1,638.71,2,1,2,5,Low-Value,At Risk Customers
+2462,2023-04-23,447.3,Product D,876936,Tokyo,341,1,447.3,2,1,1,4,Low-Value,Can't Lose
+5051,2023-04-23,840.84,Product B,350132,London,341,1,840.84,2,1,2,5,Low-Value,At Risk Customers
+9824,2023-04-23,270.6,Product A,862760,New York,341,2,622.27,2,3,2,7,Mid-Value,Potential Loyalists
+7669,2023-04-23,103.38,Product D,471507,Tokyo,341,1,103.38,2,1,1,4,Low-Value,Can't Lose
+2702,2023-04-24,542.38,Product D,777968,New York,340,2,1164.3,2,3,3,8,High-Value,Potential Loyalists
+5861,2023-04-24,969.02,Product A,884309,Paris,340,1,969.02,2,1,3,6,Mid-Value,Potential Loyalists
+6633,2023-04-24,418.53,Product B,268772,London,340,1,418.53,2,1,1,4,Low-Value,Can't Lose
+9595,2023-04-24,698.87,Product A,214611,New York,340,1,698.87,2,1,2,5,Low-Value,At Risk Customers
+4943,2023-04-24,76.62,Product A,568127,New York,340,2,626.79,2,3,2,7,Mid-Value,Potential Loyalists
+1149,2023-04-24,510.68,Product C,163386,Tokyo,340,1,510.68,2,1,2,5,Low-Value,At Risk Customers
+8848,2023-04-24,594.88,Product D,123536,London,340,1,594.88,2,1,2,5,Low-Value,At Risk Customers
+4291,2023-04-24,627.93,Product C,819964,Paris,340,1,627.93,2,1,2,5,Low-Value,At Risk Customers
+4882,2023-04-24,812.6,Product C,845279,Tokyo,340,1,812.6,2,1,2,5,Low-Value,At Risk Customers
+8311,2023-04-24,996.4,Product C,827691,Tokyo,340,1,996.4,2,1,3,6,Mid-Value,Potential Loyalists
+6617,2023-04-24,690.62,Product C,629959,Tokyo,340,2,1148.94,2,3,3,8,High-Value,Potential Loyalists
+1256,2023-04-24,591.17,Product D,180674,Paris,340,1,591.17,2,1,2,5,Low-Value,At Risk Customers
+5809,2023-04-24,950.81,Product D,688602,New York,340,1,950.81,2,1,2,5,Low-Value,At Risk Customers
+5272,2023-04-24,673.03,Product C,350280,Paris,340,1,673.03,2,1,2,5,Low-Value,At Risk Customers
+6820,2023-04-24,673.47,Product A,738720,London,340,1,673.47,2,1,2,5,Low-Value,At Risk Customers
+8609,2023-04-24,346.79,Product B,427766,Paris,340,1,346.79,2,1,1,4,Low-Value,Can't Lose
+6363,2023-04-24,460.15,Product C,898207,Tokyo,340,1,460.15,2,1,1,4,Low-Value,Can't Lose
+2072,2023-04-24,673.63,Product B,818699,Tokyo,340,1,673.63,2,1,2,5,Low-Value,At Risk Customers
+4944,2023-04-24,587.51,Product A,152995,Paris,340,1,587.51,2,1,2,5,Low-Value,At Risk Customers
+8355,2023-04-25,538.67,Product C,947903,Tokyo,339,1,538.67,2,1,2,5,Low-Value,At Risk Customers
+3938,2023-04-25,806.29,Product A,520400,New York,339,2,1731.53,2,3,4,9,High-Value,Champions
+5076,2023-04-25,696.59,Product C,427252,London,339,1,696.59,2,1,2,5,Low-Value,At Risk Customers
+7870,2023-04-25,328.58,Product D,855276,Paris,339,1,328.58,2,1,1,4,Low-Value,Can't Lose
+6085,2023-04-25,808.5,Product B,125611,New York,339,1,808.5,2,1,2,5,Low-Value,At Risk Customers
+5920,2023-04-25,222.67,Product C,122755,Paris,339,1,222.67,2,1,1,4,Low-Value,Can't Lose
+1391,2023-04-25,546.13,Product A,451291,New York,339,1,546.13,2,1,2,5,Low-Value,At Risk Customers
+9700,2023-04-25,641.57,Product A,205065,Tokyo,339,1,641.57,2,1,2,5,Low-Value,At Risk Customers
+1744,2023-04-25,401.31,Product A,108060,London,339,1,401.31,2,1,1,4,Low-Value,Can't Lose
+4166,2023-04-25,41.91,Product A,382967,Tokyo,339,1,41.91,2,1,1,4,Low-Value,Can't Lose
+6068,2023-04-25,254.92,Product C,564687,London,339,1,254.92,2,1,1,4,Low-Value,Can't Lose
+9922,2023-04-25,651.16,Product C,966785,London,339,1,651.16,2,1,2,5,Low-Value,At Risk Customers
+8711,2023-04-25,207.58,Product D,466643,Paris,339,1,207.58,2,1,1,4,Low-Value,Can't Lose
+9841,2023-04-25,806.66,Product D,422823,Paris,339,1,806.66,2,1,2,5,Low-Value,At Risk Customers
+4728,2023-04-25,33.43,Product B,517821,Paris,339,1,33.43,2,1,1,4,Low-Value,Can't Lose
+5853,2023-04-25,367.27,Product C,114835,London,339,1,367.27,2,1,1,4,Low-Value,Can't Lose
+4804,2023-04-25,690.5,Product C,183336,Tokyo,339,3,2073.33,2,5,5,12,High-Value,Champions
+1920,2023-04-25,605.65,Product A,652021,Tokyo,339,2,1117.9099999999999,2,3,3,8,High-Value,Potential Loyalists
+2527,2023-04-25,992.33,Product A,583863,New York,339,1,992.33,2,1,3,6,Mid-Value,Potential Loyalists
+8579,2023-04-26,875.74,Product A,564656,New York,338,1,875.74,2,1,2,5,Low-Value,At Risk Customers
+1651,2023-04-26,923.05,Product C,449773,Tokyo,338,1,923.05,2,1,2,5,Low-Value,At Risk Customers
+2847,2023-04-26,504.59,Product A,653948,New York,338,1,504.59,2,1,2,5,Low-Value,At Risk Customers
+6228,2023-04-26,471.81,Product C,571435,London,338,1,471.81,2,1,1,4,Low-Value,Can't Lose
+3275,2023-04-26,792.47,Product A,478427,Paris,338,1,792.47,2,1,2,5,Low-Value,At Risk Customers
+2982,2023-04-26,232.45,Product C,122056,London,338,1,232.45,2,1,1,4,Low-Value,Can't Lose
+6416,2023-04-26,12.71,Product A,215795,Tokyo,338,1,12.71,2,1,1,4,Low-Value,Can't Lose
+3287,2023-04-26,747.54,Product C,883300,Tokyo,338,1,747.54,2,1,2,5,Low-Value,At Risk Customers
+2101,2023-04-26,780.73,Product C,479742,Tokyo,338,1,780.73,2,1,2,5,Low-Value,At Risk Customers
+4150,2023-04-26,286.22,Product C,335790,Paris,338,1,286.22,2,1,1,4,Low-Value,Can't Lose
+9084,2023-04-26,224.71,Product D,575779,Tokyo,338,1,224.71,2,1,1,4,Low-Value,Can't Lose
+7363,2023-04-26,262.45,Product C,778120,New York,338,3,1386.3200000000002,2,5,3,10,High-Value,Champions
+2747,2023-04-26,387.55,Product C,702733,Paris,338,1,387.55,2,1,1,4,Low-Value,Can't Lose
+3573,2023-04-26,182.08,Product A,264136,New York,338,2,292.33000000000004,2,3,1,6,Mid-Value,Potential Loyalists
+6253,2023-04-26,308.75,Product B,792282,London,338,1,308.75,2,1,1,4,Low-Value,Can't Lose
+4762,2023-04-26,466.02,Product B,389039,London,338,1,466.02,2,1,1,4,Low-Value,Can't Lose
+9680,2023-04-26,425.62,Product A,249289,Paris,338,2,844.6,2,3,2,7,Mid-Value,Potential Loyalists
+3174,2023-04-26,154.78,Product C,968726,London,338,1,154.78,2,1,1,4,Low-Value,Can't Lose
+9589,2023-04-26,249.89,Product C,914504,Tokyo,338,1,249.89,2,1,1,4,Low-Value,Can't Lose
+1500,2023-04-26,378.74,Product D,286209,Tokyo,338,1,378.74,2,1,1,4,Low-Value,Can't Lose
+4817,2023-04-27,812.96,Product A,698199,Tokyo,337,1,812.96,2,1,2,5,Low-Value,At Risk Customers
+2752,2023-04-27,614.74,Product B,226611,Tokyo,337,1,614.74,2,1,2,5,Low-Value,At Risk Customers
+5915,2023-04-27,566.52,Product A,517754,New York,337,1,566.52,2,1,2,5,Low-Value,At Risk Customers
+6742,2023-04-27,789.15,Product A,150486,Tokyo,337,1,789.15,2,1,2,5,Low-Value,At Risk Customers
+6221,2023-04-27,952.15,Product A,458411,London,337,1,952.15,2,1,2,5,Low-Value,At Risk Customers
+1731,2023-04-27,445.34,Product C,337232,Paris,337,1,445.34,2,1,1,4,Low-Value,Can't Lose
+3695,2023-04-27,914.91,Product D,945664,Paris,337,2,1770.85,2,3,4,9,High-Value,Champions
+1228,2023-04-27,541.21,Product D,486490,Paris,337,1,541.21,2,1,2,5,Low-Value,At Risk Customers
+9465,2023-04-27,382.57,Product B,641455,Tokyo,337,1,382.57,2,1,1,4,Low-Value,Can't Lose
+2702,2023-04-27,621.92,Product A,786641,Tokyo,337,2,1164.3,2,3,3,8,High-Value,Potential Loyalists
+9625,2023-04-27,817.06,Product C,933551,Tokyo,337,1,817.06,2,1,2,5,Low-Value,At Risk Customers
+9669,2023-04-27,971.37,Product A,813328,New York,337,1,971.37,2,1,3,6,Mid-Value,Potential Loyalists
+8368,2023-04-27,355.09,Product A,560398,New York,337,1,355.09,2,1,1,4,Low-Value,Can't Lose
+6053,2023-04-27,366.05,Product D,588640,New York,337,1,366.05,2,1,1,4,Low-Value,Can't Lose
+7322,2023-04-27,544.83,Product C,125905,Paris,337,1,544.83,2,1,2,5,Low-Value,At Risk Customers
+4614,2023-04-27,88.42,Product B,641704,Paris,337,1,88.42,2,1,1,4,Low-Value,Can't Lose
+9288,2023-04-27,141.13,Product C,172132,London,337,1,141.13,2,1,1,4,Low-Value,Can't Lose
+7753,2023-04-27,164.16,Product A,100096,London,337,1,164.16,2,1,1,4,Low-Value,Can't Lose
+5843,2023-04-27,907.84,Product D,507135,New York,337,1,907.84,2,1,2,5,Low-Value,At Risk Customers
+8925,2023-04-27,988.62,Product C,911801,Tokyo,337,1,988.62,2,1,3,6,Mid-Value,Potential Loyalists
+9849,2023-04-27,663.99,Product C,349087,New York,337,1,663.99,2,1,2,5,Low-Value,At Risk Customers
+1265,2023-04-27,557.78,Product D,409531,London,337,1,557.78,2,1,2,5,Low-Value,At Risk Customers
+3705,2023-04-27,532.4,Product D,322086,London,337,1,532.4,2,1,2,5,Low-Value,At Risk Customers
+2419,2023-04-28,882.81,Product B,886931,Tokyo,336,1,882.81,2,1,2,5,Low-Value,At Risk Customers
+9374,2023-04-28,403.9,Product B,156778,Tokyo,336,1,403.9,2,1,1,4,Low-Value,Can't Lose
+8418,2023-04-28,703.47,Product D,296911,Paris,336,1,703.47,2,1,2,5,Low-Value,At Risk Customers
+9105,2023-04-28,329.64,Product C,454161,London,336,1,329.64,2,1,1,4,Low-Value,Can't Lose
+8933,2023-04-28,727.34,Product C,205409,London,336,1,727.34,2,1,2,5,Low-Value,At Risk Customers
+8790,2023-04-28,56.1,Product A,817675,Paris,336,1,56.1,2,1,1,4,Low-Value,Can't Lose
+6574,2023-04-28,163.92,Product C,207175,New York,336,1,163.92,2,1,1,4,Low-Value,Can't Lose
+5622,2023-04-28,133.79,Product D,862427,New York,336,1,133.79,2,1,1,4,Low-Value,Can't Lose
+2336,2023-04-28,448.68,Product D,609253,Tokyo,336,1,448.68,2,1,1,4,Low-Value,Can't Lose
+5059,2023-04-28,648.17,Product B,680278,Paris,336,1,648.17,2,1,2,5,Low-Value,At Risk Customers
+7363,2023-04-28,188.02,Product C,726121,London,336,3,1386.3200000000002,2,5,3,10,High-Value,Champions
+7785,2023-04-28,223.41,Product A,461939,Tokyo,336,1,223.41,2,1,1,4,Low-Value,Can't Lose
+2344,2023-04-28,162.68,Product B,875584,Tokyo,336,1,162.68,2,1,1,4,Low-Value,Can't Lose
+8145,2023-04-28,841.71,Product B,812591,Paris,336,1,841.71,2,1,2,5,Low-Value,At Risk Customers
+5933,2023-04-28,498.19,Product A,275329,Tokyo,336,2,1163.24,2,3,3,8,High-Value,Potential Loyalists
+4275,2023-04-28,752.68,Product B,400538,Paris,336,1,752.68,2,1,2,5,Low-Value,At Risk Customers
+4371,2023-04-28,754.8,Product A,705393,New York,336,1,754.8,2,1,2,5,Low-Value,At Risk Customers
+1046,2023-04-28,859.82,Product B,236306,Paris,336,1,859.82,2,1,2,5,Low-Value,At Risk Customers
+7054,2023-04-29,166.17,Product C,741390,New York,335,1,166.17,2,1,1,4,Low-Value,Can't Lose
+7921,2023-04-29,617.0,Product A,823468,London,335,1,617.0,2,1,2,5,Low-Value,At Risk Customers
+6634,2023-04-29,474.51,Product A,821179,Tokyo,335,1,474.51,2,1,1,4,Low-Value,Can't Lose
+4131,2023-04-29,363.4,Product A,787584,Paris,335,1,363.4,2,1,1,4,Low-Value,Can't Lose
+4879,2023-04-29,268.38,Product C,939717,Tokyo,335,1,268.38,2,1,1,4,Low-Value,Can't Lose
+2389,2023-04-29,520.3,Product C,197923,London,335,1,520.3,2,1,2,5,Low-Value,At Risk Customers
+2417,2023-04-29,767.62,Product D,499941,Tokyo,335,1,767.62,2,1,2,5,Low-Value,At Risk Customers
+9941,2023-04-29,960.53,Product B,412534,Paris,335,1,960.53,2,1,3,6,Mid-Value,Potential Loyalists
+3399,2023-04-29,51.65,Product A,463188,Tokyo,335,2,123.06,2,3,1,6,Mid-Value,Potential Loyalists
+8362,2023-04-29,821.22,Product C,576136,New York,335,1,821.22,2,1,2,5,Low-Value,At Risk Customers
+1842,2023-04-29,604.41,Product C,208633,London,335,1,604.41,2,1,2,5,Low-Value,At Risk Customers
+1519,2023-04-29,414.78,Product B,903028,Tokyo,335,2,504.2,2,3,2,7,Mid-Value,Potential Loyalists
+2816,2023-04-29,681.44,Product D,652530,Paris,335,1,681.44,2,1,2,5,Low-Value,At Risk Customers
+4792,2023-04-29,709.89,Product D,174637,London,335,1,709.89,2,1,2,5,Low-Value,At Risk Customers
+7418,2023-04-29,649.71,Product B,618927,Tokyo,335,1,649.71,2,1,2,5,Low-Value,At Risk Customers
+6617,2023-04-29,458.32,Product B,244892,Tokyo,335,2,1148.94,2,3,3,8,High-Value,Potential Loyalists
+1984,2023-04-29,208.69,Product C,155663,Tokyo,335,1,208.69,2,1,1,4,Low-Value,Can't Lose
+9747,2023-04-29,878.7,Product D,947568,New York,335,1,878.7,2,1,2,5,Low-Value,At Risk Customers
+1919,2023-04-29,364.88,Product D,252640,London,335,1,364.88,2,1,1,4,Low-Value,Can't Lose
+9022,2023-04-29,148.89,Product C,982885,Tokyo,335,1,148.89,2,1,1,4,Low-Value,Can't Lose
+5067,2023-04-29,102.08,Product C,179721,London,335,2,1005.37,2,3,3,8,High-Value,Potential Loyalists
+1645,2023-04-30,790.72,Product A,707727,Paris,334,2,1292.1100000000001,2,3,3,8,High-Value,Potential Loyalists
+4700,2023-04-30,687.2,Product A,785491,New York,334,1,687.2,2,1,2,5,Low-Value,At Risk Customers
+3219,2023-04-30,16.7,Product D,448354,Tokyo,334,1,16.7,2,1,1,4,Low-Value,Can't Lose
+1749,2023-04-30,948.98,Product D,863187,Paris,334,1,948.98,2,1,2,5,Low-Value,At Risk Customers
+1886,2023-04-30,529.14,Product C,666157,London,334,1,529.14,2,1,2,5,Low-Value,At Risk Customers
+7199,2023-04-30,736.66,Product C,233534,London,334,1,736.66,2,1,2,5,Low-Value,At Risk Customers
+8625,2023-04-30,168.12,Product C,823821,New York,334,1,168.12,2,1,1,4,Low-Value,Can't Lose
+6707,2023-04-30,349.64,Product B,646428,Tokyo,334,1,349.64,2,1,1,4,Low-Value,Can't Lose
+2075,2023-04-30,712.47,Product D,242239,New York,334,1,712.47,2,1,2,5,Low-Value,At Risk Customers
+5438,2023-04-30,258.89,Product A,856321,London,334,1,258.89,2,1,1,4,Low-Value,Can't Lose
+4986,2023-04-30,667.32,Product C,596249,Paris,334,1,667.32,2,1,2,5,Low-Value,At Risk Customers
+1372,2023-04-30,468.37,Product D,657772,Tokyo,334,1,468.37,2,1,1,4,Low-Value,Can't Lose
+7885,2023-04-30,787.87,Product D,489438,Tokyo,334,1,787.87,2,1,2,5,Low-Value,At Risk Customers
+7775,2023-04-30,282.4,Product B,756401,Tokyo,334,1,282.4,2,1,1,4,Low-Value,Can't Lose
+8803,2023-04-30,88.17,Product A,626491,London,334,1,88.17,2,1,1,4,Low-Value,Can't Lose
+9393,2023-04-30,844.64,Product C,846454,London,334,1,844.64,2,1,2,5,Low-Value,At Risk Customers
+8816,2023-04-30,19.04,Product D,936726,Paris,334,1,19.04,2,1,1,4,Low-Value,Can't Lose
+9680,2023-04-30,418.98,Product B,244037,London,334,2,844.6,2,3,2,7,Mid-Value,Potential Loyalists
+4893,2023-04-30,130.63,Product B,540218,Tokyo,334,1,130.63,2,1,1,4,Low-Value,Can't Lose
+2077,2023-04-30,404.18,Product D,651231,Tokyo,334,1,404.18,2,1,1,4,Low-Value,Can't Lose
+1901,2023-04-30,669.42,Product B,225245,New York,334,1,669.42,2,1,2,5,Low-Value,At Risk Customers
+8807,2023-05-01,360.0,Product C,291663,London,333,1,360.0,2,1,1,4,Low-Value,Can't Lose
+5903,2023-05-01,374.88,Product D,960109,New York,333,1,374.88,2,1,1,4,Low-Value,Can't Lose
+5742,2023-05-01,128.78,Product D,883301,Tokyo,333,1,128.78,2,1,1,4,Low-Value,Can't Lose
+3695,2023-05-01,855.94,Product D,221886,London,333,2,1770.85,2,3,4,9,High-Value,Champions
+1341,2023-05-01,180.15,Product D,972442,Paris,333,1,180.15,2,1,1,4,Low-Value,Can't Lose
+8822,2023-05-01,936.47,Product A,373453,Tokyo,333,1,936.47,2,1,2,5,Low-Value,At Risk Customers
+9442,2023-05-01,95.87,Product A,293757,London,333,1,95.87,2,1,1,4,Low-Value,Can't Lose
+1715,2023-05-01,747.26,Product D,504832,London,333,2,1117.92,2,3,3,8,High-Value,Potential Loyalists
+5706,2023-05-01,292.56,Product A,906066,New York,333,1,292.56,2,1,1,4,Low-Value,Can't Lose
+2557,2023-05-01,432.5,Product C,492483,London,333,1,432.5,2,1,1,4,Low-Value,Can't Lose
+8324,2023-05-01,127.52,Product D,881439,New York,333,1,127.52,2,1,1,4,Low-Value,Can't Lose
+4154,2023-05-01,518.76,Product A,275526,New York,333,1,518.76,2,1,2,5,Low-Value,At Risk Customers
+4812,2023-05-01,981.86,Product C,944654,Tokyo,333,2,1279.44,2,3,3,8,High-Value,Potential Loyalists
+6502,2023-05-01,894.1,Product A,245095,London,333,1,894.1,2,1,2,5,Low-Value,At Risk Customers
+8094,2023-05-01,26.72,Product A,660814,New York,333,1,26.72,2,1,1,4,Low-Value,Can't Lose
+3194,2023-05-01,126.68,Product C,222629,London,333,1,126.68,2,1,1,4,Low-Value,Can't Lose
+9788,2023-05-01,396.82,Product A,425236,Tokyo,333,1,396.82,2,1,1,4,Low-Value,Can't Lose
+7521,2023-05-01,653.07,Product B,218959,New York,333,1,653.07,2,1,2,5,Low-Value,At Risk Customers
+6345,2023-05-01,458.23,Product B,178315,London,333,1,458.23,2,1,1,4,Low-Value,Can't Lose
+8225,2023-05-01,424.59,Product D,824042,London,333,1,424.59,2,1,1,4,Low-Value,Can't Lose
+4912,2023-05-01,723.79,Product D,299092,Tokyo,333,1,723.79,2,1,2,5,Low-Value,At Risk Customers
+3463,2023-05-02,90.69,Product B,466813,Paris,332,1,90.69,2,1,1,4,Low-Value,Can't Lose
+2655,2023-05-02,308.75,Product B,265154,Tokyo,332,1,308.75,2,1,1,4,Low-Value,Can't Lose
+7798,2023-05-02,934.91,Product C,960408,New York,332,1,934.91,2,1,2,5,Low-Value,At Risk Customers
+1225,2023-05-02,696.86,Product A,419939,Tokyo,332,1,696.86,2,1,2,5,Low-Value,At Risk Customers
+9785,2023-05-02,939.84,Product A,373903,London,332,1,939.84,2,1,2,5,Low-Value,At Risk Customers
+5342,2023-05-02,627.03,Product D,781403,New York,332,1,627.03,2,1,2,5,Low-Value,At Risk Customers
+7678,2023-05-02,547.19,Product D,165290,London,332,1,547.19,2,1,2,5,Low-Value,At Risk Customers
+3793,2023-05-02,363.95,Product D,752011,Paris,332,1,363.95,2,1,1,4,Low-Value,Can't Lose
+7334,2023-05-02,973.99,Product D,825686,Tokyo,332,1,973.99,2,1,3,6,Mid-Value,Potential Loyalists
+1011,2023-05-02,918.72,Product B,945619,London,332,2,1129.02,2,3,3,8,High-Value,Potential Loyalists
+4111,2023-05-02,729.28,Product B,819656,Tokyo,332,1,729.28,2,1,2,5,Low-Value,At Risk Customers
+4630,2023-05-02,781.33,Product A,635280,New York,332,1,781.33,2,1,2,5,Low-Value,At Risk Customers
+1480,2023-05-02,809.04,Product C,649300,New York,332,2,1621.62,2,3,4,9,High-Value,Champions
+4214,2023-05-02,237.72,Product B,623555,Paris,332,1,237.72,2,1,1,4,Low-Value,Can't Lose
+9268,2023-05-02,660.96,Product D,469438,Paris,332,1,660.96,2,1,2,5,Low-Value,At Risk Customers
+3623,2023-05-02,564.25,Product D,343118,Tokyo,332,1,564.25,2,1,2,5,Low-Value,At Risk Customers
+1331,2023-05-02,819.21,Product C,426053,Paris,332,1,819.21,2,1,2,5,Low-Value,At Risk Customers
+8432,2023-05-02,165.84,Product C,856648,Paris,332,1,165.84,2,1,1,4,Low-Value,Can't Lose
+3634,2023-05-02,417.53,Product D,402218,Tokyo,332,1,417.53,2,1,1,4,Low-Value,Can't Lose
+1519,2023-05-02,89.42,Product B,158760,Paris,332,2,504.2,2,3,2,7,Mid-Value,Potential Loyalists
+7209,2023-05-02,38.41,Product C,290672,Tokyo,332,1,38.41,2,1,1,4,Low-Value,Can't Lose
+8216,2023-05-02,192.52,Product A,364742,Tokyo,332,2,1117.49,2,3,3,8,High-Value,Potential Loyalists
+6478,2023-05-03,880.99,Product D,536754,New York,331,1,880.99,2,1,2,5,Low-Value,At Risk Customers
+7363,2023-05-03,935.85,Product B,284654,London,331,3,1386.3200000000002,2,5,3,10,High-Value,Champions
+6703,2023-05-03,963.65,Product C,337288,London,331,1,963.65,2,1,3,6,Mid-Value,Potential Loyalists
+7291,2023-05-03,963.62,Product C,929504,London,331,1,963.62,2,1,3,6,Mid-Value,Potential Loyalists
+4475,2023-05-03,799.85,Product C,393243,Paris,331,1,799.85,2,1,2,5,Low-Value,At Risk Customers
+6730,2023-05-03,171.88,Product C,885342,New York,331,1,171.88,2,1,1,4,Low-Value,Can't Lose
+8210,2023-05-03,725.21,Product B,531709,Tokyo,331,1,725.21,2,1,2,5,Low-Value,At Risk Customers
+2468,2023-05-03,558.68,Product C,503951,New York,331,1,558.68,2,1,2,5,Low-Value,At Risk Customers
+9674,2023-05-03,769.17,Product B,267378,New York,331,1,769.17,2,1,2,5,Low-Value,At Risk Customers
+6420,2023-05-03,136.93,Product B,204904,Paris,331,1,136.93,2,1,1,4,Low-Value,Can't Lose
+1920,2023-05-03,512.26,Product C,584172,Tokyo,331,2,1117.9099999999999,2,3,3,8,High-Value,Potential Loyalists
+9950,2023-05-03,679.11,Product C,739711,Tokyo,331,1,679.11,2,1,2,5,Low-Value,At Risk Customers
+7204,2023-05-03,550.56,Product A,969067,Tokyo,331,1,550.56,2,1,2,5,Low-Value,At Risk Customers
+8542,2023-05-03,164.55,Product C,484914,London,331,1,164.55,2,1,1,4,Low-Value,Can't Lose
+8895,2023-05-03,667.07,Product D,255875,New York,331,1,667.07,2,1,2,5,Low-Value,At Risk Customers
+4029,2023-05-04,886.64,Product C,295646,Tokyo,330,1,886.64,2,1,2,5,Low-Value,At Risk Customers
+7437,2023-05-04,122.75,Product B,720995,London,330,1,122.75,2,1,1,4,Low-Value,Can't Lose
+6188,2023-05-04,115.49,Product A,423241,Tokyo,330,1,115.49,2,1,1,4,Low-Value,Can't Lose
+2294,2023-05-04,959.7,Product D,692447,London,330,1,959.7,2,1,3,6,Mid-Value,Potential Loyalists
+7543,2023-05-04,227.13,Product B,634277,Tokyo,330,1,227.13,2,1,1,4,Low-Value,Can't Lose
+7563,2023-05-04,689.42,Product A,710610,Paris,330,1,689.42,2,1,2,5,Low-Value,At Risk Customers
+7939,2023-05-04,354.82,Product C,461260,New York,330,2,763.0699999999999,2,3,2,7,Mid-Value,Potential Loyalists
+2337,2023-05-04,232.29,Product C,203896,Paris,330,1,232.29,2,1,1,4,Low-Value,Can't Lose
+4178,2023-05-04,681.52,Product D,584106,Paris,330,1,681.52,2,1,2,5,Low-Value,At Risk Customers
+9368,2023-05-04,64.88,Product B,485548,London,330,1,64.88,2,1,1,4,Low-Value,Can't Lose
+9576,2023-05-04,77.0,Product A,509420,Tokyo,330,1,77.0,2,1,1,4,Low-Value,Can't Lose
+3735,2023-05-04,135.66,Product C,868538,New York,330,1,135.66,2,1,1,4,Low-Value,Can't Lose
+6584,2023-05-04,827.06,Product B,985331,Tokyo,330,1,827.06,2,1,2,5,Low-Value,At Risk Customers
+3435,2023-05-04,398.57,Product C,240384,Tokyo,330,1,398.57,2,1,1,4,Low-Value,Can't Lose
+5331,2023-05-04,241.68,Product B,643042,Paris,330,1,241.68,2,1,1,4,Low-Value,Can't Lose
+3578,2023-05-04,606.0,Product A,793223,London,330,1,606.0,2,1,2,5,Low-Value,At Risk Customers
+2522,2023-05-04,816.81,Product B,219361,Tokyo,330,1,816.81,2,1,2,5,Low-Value,At Risk Customers
+7606,2023-05-04,54.79,Product A,697983,London,330,1,54.79,2,1,1,4,Low-Value,Can't Lose
+7453,2023-05-04,796.95,Product C,684929,Paris,330,1,796.95,2,1,2,5,Low-Value,At Risk Customers
+1590,2023-05-04,246.86,Product A,265092,New York,330,1,246.86,2,1,1,4,Low-Value,Can't Lose
+9331,2023-05-04,28.05,Product C,289019,London,330,2,136.66,2,3,1,6,Mid-Value,Potential Loyalists
+3504,2023-05-04,764.89,Product A,728038,Paris,330,1,764.89,2,1,2,5,Low-Value,At Risk Customers
+6050,2023-05-04,899.99,Product A,475190,London,330,1,899.99,2,1,2,5,Low-Value,At Risk Customers
+6621,2023-05-04,192.07,Product D,320759,Tokyo,330,1,192.07,2,1,1,4,Low-Value,Can't Lose
+5833,2023-05-04,618.48,Product B,240057,Tokyo,330,1,618.48,2,1,2,5,Low-Value,At Risk Customers
+5488,2023-05-04,825.27,Product D,766275,New York,330,1,825.27,2,1,2,5,Low-Value,At Risk Customers
+7099,2023-05-04,855.78,Product C,572623,London,330,1,855.78,2,1,2,5,Low-Value,At Risk Customers
+3697,2023-05-05,12.13,Product D,378085,Tokyo,329,1,12.13,3,1,1,5,Low-Value,At Risk Customers
+9307,2023-05-05,468.08,Product A,571579,London,329,1,468.08,3,1,1,5,Low-Value,At Risk Customers
+2425,2023-05-05,560.8,Product C,998235,Paris,329,1,560.8,3,1,2,6,Mid-Value,Potential Loyalists
+4788,2023-05-05,697.01,Product B,167348,Tokyo,329,2,714.16,3,3,2,8,High-Value,Potential Loyalists
+3369,2023-05-05,198.7,Product B,173201,Paris,329,1,198.7,3,1,1,5,Low-Value,At Risk Customers
+7251,2023-05-05,422.4,Product C,678944,New York,329,2,444.89,3,3,1,7,Mid-Value,Potential Loyalists
+4751,2023-05-05,98.44,Product A,208214,Paris,329,1,98.44,3,1,1,5,Low-Value,At Risk Customers
+6963,2023-05-05,921.02,Product B,999138,New York,329,1,921.02,3,1,2,6,Mid-Value,Potential Loyalists
+9289,2023-05-05,736.32,Product A,749838,Paris,329,1,736.32,3,1,2,6,Mid-Value,Potential Loyalists
+7883,2023-05-05,905.79,Product A,998348,Tokyo,329,1,905.79,3,1,2,6,Mid-Value,Potential Loyalists
+9899,2023-05-05,896.8,Product D,958130,Paris,329,1,896.8,3,1,2,6,Mid-Value,Potential Loyalists
+2654,2023-05-05,285.19,Product C,270555,Paris,329,1,285.19,3,1,1,5,Low-Value,At Risk Customers
+8254,2023-05-05,567.54,Product B,894268,Paris,329,1,567.54,3,1,2,6,Mid-Value,Potential Loyalists
+4765,2023-05-05,391.61,Product A,117367,London,329,1,391.61,3,1,1,5,Low-Value,At Risk Customers
+5634,2023-05-05,414.68,Product C,811875,New York,329,2,720.25,3,3,2,8,High-Value,Potential Loyalists
+2682,2023-05-05,508.3,Product C,275133,New York,329,1,508.3,3,1,2,6,Mid-Value,Potential Loyalists
+9609,2023-05-05,320.62,Product B,581992,Paris,329,1,320.62,3,1,1,5,Low-Value,At Risk Customers
+8821,2023-05-05,14.62,Product B,866151,Paris,329,1,14.62,3,1,1,5,Low-Value,At Risk Customers
+5583,2023-05-05,145.86,Product B,773870,London,329,2,839.24,3,3,2,8,High-Value,Potential Loyalists
+6168,2023-05-06,275.06,Product B,694731,Paris,328,1,275.06,3,1,1,5,Low-Value,At Risk Customers
+9328,2023-05-06,788.22,Product A,268546,Tokyo,328,2,1710.17,3,3,4,10,High-Value,Champions
+8161,2023-05-06,257.4,Product D,968668,Tokyo,328,1,257.4,3,1,1,5,Low-Value,At Risk Customers
+1992,2023-05-06,283.12,Product A,989227,Tokyo,328,1,283.12,3,1,1,5,Low-Value,At Risk Customers
+2180,2023-05-06,863.15,Product A,557409,New York,328,1,863.15,3,1,2,6,Mid-Value,Potential Loyalists
+6828,2023-05-06,518.33,Product C,372804,London,328,1,518.33,3,1,2,6,Mid-Value,Potential Loyalists
+6658,2023-05-06,139.46,Product C,639995,New York,328,1,139.46,3,1,1,5,Low-Value,At Risk Customers
+1813,2023-05-06,576.05,Product D,261050,New York,328,1,576.05,3,1,2,6,Mid-Value,Potential Loyalists
+9802,2023-05-06,533.55,Product B,975373,New York,328,1,533.55,3,1,2,6,Mid-Value,Potential Loyalists
+9444,2023-05-06,989.23,Product D,365618,New York,328,1,989.23,3,1,3,7,Mid-Value,Potential Loyalists
+6344,2023-05-06,700.24,Product B,301158,Tokyo,328,1,700.24,3,1,2,6,Mid-Value,Potential Loyalists
+1993,2023-05-06,730.93,Product A,360735,London,328,1,730.93,3,1,2,6,Mid-Value,Potential Loyalists
+2681,2023-05-06,418.22,Product A,966028,New York,328,1,418.22,3,1,1,5,Low-Value,At Risk Customers
+8201,2023-05-06,885.55,Product C,583757,London,328,1,885.55,3,1,2,6,Mid-Value,Potential Loyalists
+6107,2023-05-06,995.2,Product C,559381,Tokyo,328,1,995.2,3,1,3,7,Mid-Value,Potential Loyalists
+5512,2023-05-06,152.41,Product D,140666,Tokyo,328,1,152.41,3,1,1,5,Low-Value,At Risk Customers
+2531,2023-05-06,385.47,Product D,158840,New York,328,1,385.47,3,1,1,5,Low-Value,At Risk Customers
+3662,2023-05-06,990.71,Product C,722565,Paris,328,1,990.71,3,1,3,7,Mid-Value,Potential Loyalists
+9756,2023-05-06,225.65,Product D,964915,London,328,1,225.65,3,1,1,5,Low-Value,At Risk Customers
+6172,2023-05-07,955.89,Product A,834861,Paris,327,1,955.89,3,1,2,6,Mid-Value,Potential Loyalists
+9702,2023-05-07,570.27,Product B,278240,London,327,1,570.27,3,1,2,6,Mid-Value,Potential Loyalists
+5521,2023-05-07,306.75,Product A,478666,Paris,327,1,306.75,3,1,1,5,Low-Value,At Risk Customers
+2843,2023-05-07,158.15,Product A,210766,New York,327,1,158.15,3,1,1,5,Low-Value,At Risk Customers
+9871,2023-05-07,971.0,Product B,680493,New York,327,2,1820.53,3,3,4,10,High-Value,Champions
+7793,2023-05-07,55.04,Product C,687638,London,327,2,391.96000000000004,3,3,1,7,Mid-Value,Potential Loyalists
+1104,2023-05-07,146.12,Product B,171269,London,327,1,146.12,3,1,1,5,Low-Value,At Risk Customers
+9908,2023-05-07,265.23,Product A,843596,New York,327,1,265.23,3,1,1,5,Low-Value,At Risk Customers
+6175,2023-05-07,368.65,Product B,546768,Paris,327,1,368.65,3,1,1,5,Low-Value,At Risk Customers
+5933,2023-05-07,665.05,Product C,753050,London,327,2,1163.24,3,3,3,9,High-Value,Champions
+3724,2023-05-07,490.78,Product B,520521,New York,327,1,490.78,3,1,2,6,Mid-Value,Potential Loyalists
+9553,2023-05-07,376.67,Product A,831531,Tokyo,327,1,376.67,3,1,1,5,Low-Value,At Risk Customers
+9173,2023-05-07,883.95,Product D,163941,New York,327,1,883.95,3,1,2,6,Mid-Value,Potential Loyalists
+4743,2023-05-07,345.54,Product D,518098,Tokyo,327,1,345.54,3,1,1,5,Low-Value,At Risk Customers
+5781,2023-05-07,393.92,Product A,860053,London,327,1,393.92,3,1,1,5,Low-Value,At Risk Customers
+1715,2023-05-07,370.66,Product B,565776,Paris,327,2,1117.92,3,3,3,9,High-Value,Champions
+6614,2023-05-07,987.32,Product D,250181,Paris,327,1,987.32,3,1,3,7,Mid-Value,Potential Loyalists
+7821,2023-05-07,157.73,Product D,292811,Tokyo,327,1,157.73,3,1,1,5,Low-Value,At Risk Customers
+1011,2023-05-08,210.3,Product B,781571,Paris,326,2,1129.02,3,3,3,9,High-Value,Champions
+8616,2023-05-08,827.48,Product C,437960,London,326,1,827.48,3,1,2,6,Mid-Value,Potential Loyalists
+5471,2023-05-08,490.79,Product D,452457,Tokyo,326,1,490.79,3,1,2,6,Mid-Value,Potential Loyalists
+7286,2023-05-08,193.9,Product B,681868,London,326,1,193.9,3,1,1,5,Low-Value,At Risk Customers
+3114,2023-05-08,507.84,Product A,971776,New York,326,1,507.84,3,1,2,6,Mid-Value,Potential Loyalists
+5673,2023-05-08,699.63,Product D,262316,London,326,1,699.63,3,1,2,6,Mid-Value,Potential Loyalists
+2761,2023-05-08,142.6,Product C,862847,Paris,326,1,142.6,3,1,1,5,Low-Value,At Risk Customers
+2443,2023-05-08,846.04,Product B,556839,Tokyo,326,1,846.04,3,1,2,6,Mid-Value,Potential Loyalists
+6967,2023-05-08,79.27,Product C,753425,Paris,326,1,79.27,3,1,1,5,Low-Value,At Risk Customers
+3502,2023-05-08,970.83,Product C,570988,London,326,1,970.83,3,1,3,7,Mid-Value,Potential Loyalists
+1507,2023-05-08,943.02,Product B,736818,Tokyo,326,1,943.02,3,1,2,6,Mid-Value,Potential Loyalists
+5511,2023-05-08,896.53,Product C,581294,Paris,326,1,896.53,3,1,2,6,Mid-Value,Potential Loyalists
+5970,2023-05-09,748.15,Product C,259338,London,325,1,748.15,3,1,2,6,Mid-Value,Potential Loyalists
+9535,2023-05-09,419.85,Product B,995706,New York,325,1,419.85,3,1,1,5,Low-Value,At Risk Customers
+5469,2023-05-09,906.25,Product B,971415,Tokyo,325,1,906.25,3,1,2,6,Mid-Value,Potential Loyalists
+8685,2023-05-09,619.19,Product A,119927,Paris,325,1,619.19,3,1,2,6,Mid-Value,Potential Loyalists
+5819,2023-05-09,185.65,Product A,296059,London,325,1,185.65,3,1,1,5,Low-Value,At Risk Customers
+5719,2023-05-09,882.04,Product D,227324,New York,325,1,882.04,3,1,2,6,Mid-Value,Potential Loyalists
+7693,2023-05-09,692.48,Product D,405407,New York,325,1,692.48,3,1,2,6,Mid-Value,Potential Loyalists
+4401,2023-05-09,315.22,Product C,993892,New York,325,2,508.21000000000004,3,3,2,8,High-Value,Potential Loyalists
+6299,2023-05-09,34.66,Product D,718990,London,325,1,34.66,3,1,1,5,Low-Value,At Risk Customers
+3693,2023-05-09,471.39,Product D,226601,Paris,325,1,471.39,3,1,1,5,Low-Value,At Risk Customers
+4232,2023-05-09,596.28,Product D,104666,London,325,1,596.28,3,1,2,6,Mid-Value,Potential Loyalists
+6399,2023-05-09,341.39,Product B,415029,Paris,325,1,341.39,3,1,1,5,Low-Value,At Risk Customers
+8061,2023-05-09,561.42,Product D,208310,New York,325,1,561.42,3,1,2,6,Mid-Value,Potential Loyalists
+6898,2023-05-09,453.02,Product D,100205,New York,325,1,453.02,3,1,1,5,Low-Value,At Risk Customers
+4858,2023-05-09,756.22,Product C,416613,New York,325,1,756.22,3,1,2,6,Mid-Value,Potential Loyalists
+5499,2023-05-09,86.71,Product C,345884,Paris,325,1,86.71,3,1,1,5,Low-Value,At Risk Customers
+7146,2023-05-09,84.76,Product A,522419,Paris,325,1,84.76,3,1,1,5,Low-Value,At Risk Customers
+9514,2023-05-10,917.99,Product A,924758,Tokyo,324,2,1553.53,3,3,4,10,High-Value,Champions
+1200,2023-05-10,502.65,Product D,669902,New York,324,1,502.65,3,1,2,6,Mid-Value,Potential Loyalists
+3906,2023-05-10,751.84,Product C,137581,New York,324,1,751.84,3,1,2,6,Mid-Value,Potential Loyalists
+4575,2023-05-10,309.12,Product D,712879,New York,324,1,309.12,3,1,1,5,Low-Value,At Risk Customers
+4974,2023-05-10,374.59,Product D,910143,London,324,2,982.95,3,3,3,9,High-Value,Champions
+8863,2023-05-10,450.9,Product C,610626,New York,324,1,450.9,3,1,1,5,Low-Value,At Risk Customers
+2291,2023-05-10,449.75,Product D,192295,Tokyo,324,1,449.75,3,1,1,5,Low-Value,At Risk Customers
+8399,2023-05-10,828.74,Product A,357657,Tokyo,324,1,828.74,3,1,2,6,Mid-Value,Potential Loyalists
+5694,2023-05-10,635.4,Product B,275715,Paris,324,1,635.4,3,1,2,6,Mid-Value,Potential Loyalists
+2551,2023-05-10,110.89,Product B,227352,New York,324,1,110.89,3,1,1,5,Low-Value,At Risk Customers
+7557,2023-05-10,279.11,Product D,823415,Tokyo,324,1,279.11,3,1,1,5,Low-Value,At Risk Customers
+1392,2023-05-10,629.21,Product A,873291,London,324,1,629.21,3,1,2,6,Mid-Value,Potential Loyalists
+4532,2023-05-10,826.31,Product B,851606,Paris,324,1,826.31,3,1,2,6,Mid-Value,Potential Loyalists
+2310,2023-05-10,803.01,Product A,478458,Tokyo,324,1,803.01,3,1,2,6,Mid-Value,Potential Loyalists
+7046,2023-05-10,950.75,Product C,710224,New York,324,2,1662.1,3,3,4,10,High-Value,Champions
+7408,2023-05-10,774.62,Product B,461724,New York,324,1,774.62,3,1,2,6,Mid-Value,Potential Loyalists
+1601,2023-05-10,97.18,Product C,438977,New York,324,2,952.47,3,3,2,8,High-Value,Potential Loyalists
+8372,2023-05-10,683.31,Product C,234568,London,324,1,683.31,3,1,2,6,Mid-Value,Potential Loyalists
+2988,2023-05-10,142.01,Product D,800005,Paris,324,1,142.01,3,1,1,5,Low-Value,At Risk Customers
+3509,2023-05-10,750.26,Product C,536045,Tokyo,324,1,750.26,3,1,2,6,Mid-Value,Potential Loyalists
+7735,2023-05-10,865.2,Product A,806073,New York,324,1,865.2,3,1,2,6,Mid-Value,Potential Loyalists
+4804,2023-05-10,641.53,Product D,367729,New York,324,3,2073.33,3,5,5,13,High-Value,Champions
+9508,2023-05-10,157.45,Product B,443897,Paris,324,1,157.45,3,1,1,5,Low-Value,At Risk Customers
+5150,2023-05-11,642.13,Product B,477934,New York,323,1,642.13,3,1,2,6,Mid-Value,Potential Loyalists
+2494,2023-05-11,354.48,Product C,436653,New York,323,2,1063.6399999999999,3,3,3,9,High-Value,Champions
+5949,2023-05-11,252.43,Product D,411882,Tokyo,323,1,252.43,3,1,1,5,Low-Value,At Risk Customers
+3140,2023-05-11,921.19,Product A,531262,Tokyo,323,1,921.19,3,1,2,6,Mid-Value,Potential Loyalists
+9824,2023-05-11,351.67,Product D,577463,Paris,323,2,622.27,3,3,2,8,High-Value,Potential Loyalists
+5011,2023-05-11,615.16,Product A,577538,Tokyo,323,1,615.16,3,1,2,6,Mid-Value,Potential Loyalists
+4290,2023-05-11,321.04,Product D,434640,Paris,323,1,321.04,3,1,1,5,Low-Value,At Risk Customers
+3450,2023-05-11,807.61,Product B,541996,Tokyo,323,1,807.61,3,1,2,6,Mid-Value,Potential Loyalists
+9991,2023-05-11,626.81,Product B,828834,New York,323,1,626.81,3,1,2,6,Mid-Value,Potential Loyalists
+2118,2023-05-11,447.79,Product C,935012,Paris,323,1,447.79,3,1,1,5,Low-Value,At Risk Customers
+2526,2023-05-11,662.8,Product A,912510,Tokyo,323,2,1635.23,3,3,4,10,High-Value,Champions
+4555,2023-05-11,216.8,Product C,417915,New York,323,1,216.8,3,1,1,5,Low-Value,At Risk Customers
+2041,2023-05-11,453.79,Product C,638169,New York,323,1,453.79,3,1,1,5,Low-Value,At Risk Customers
+1504,2023-05-11,164.76,Product B,243006,Tokyo,323,1,164.76,3,1,1,5,Low-Value,At Risk Customers
+2342,2023-05-11,845.33,Product C,923002,Tokyo,323,1,845.33,3,1,2,6,Mid-Value,Potential Loyalists
+6706,2023-05-11,106.65,Product D,434400,New York,323,1,106.65,3,1,1,5,Low-Value,At Risk Customers
+7358,2023-05-11,918.72,Product A,141843,Paris,323,1,918.72,3,1,2,6,Mid-Value,Potential Loyalists
+9363,2023-05-12,777.0,Product D,182216,Tokyo,322,1,777.0,3,1,2,6,Mid-Value,Potential Loyalists
+8715,2023-05-12,895.93,Product C,195563,Tokyo,322,1,895.93,3,1,2,6,Mid-Value,Potential Loyalists
+3832,2023-05-12,827.45,Product A,724145,Paris,322,1,827.45,3,1,2,6,Mid-Value,Potential Loyalists
+2741,2023-05-12,206.66,Product B,915749,Paris,322,2,1104.57,3,3,3,9,High-Value,Champions
+4048,2023-05-12,522.57,Product A,374492,Paris,322,1,522.57,3,1,2,6,Mid-Value,Potential Loyalists
+7434,2023-05-12,150.75,Product C,758309,Tokyo,322,1,150.75,3,1,1,5,Low-Value,At Risk Customers
+3522,2023-05-12,933.33,Product C,633590,Paris,322,1,933.33,3,1,2,6,Mid-Value,Potential Loyalists
+1108,2023-05-13,883.21,Product D,273650,London,321,1,883.21,3,1,2,6,Mid-Value,Potential Loyalists
+7256,2023-05-13,532.19,Product B,956572,London,321,1,532.19,3,1,2,6,Mid-Value,Potential Loyalists
+9210,2023-05-13,99.65,Product C,626560,New York,321,1,99.65,3,1,1,5,Low-Value,At Risk Customers
+8405,2023-05-13,229.33,Product A,862569,Paris,321,1,229.33,3,1,1,5,Low-Value,At Risk Customers
+5460,2023-05-13,544.58,Product D,184349,New York,321,1,544.58,3,1,2,6,Mid-Value,Potential Loyalists
+4637,2023-05-13,749.38,Product B,567432,Paris,321,1,749.38,3,1,2,6,Mid-Value,Potential Loyalists
+2263,2023-05-13,647.04,Product B,257538,London,321,1,647.04,3,1,2,6,Mid-Value,Potential Loyalists
+7670,2023-05-13,115.4,Product A,627611,Paris,321,1,115.4,3,1,1,5,Low-Value,At Risk Customers
+9693,2023-05-13,201.96,Product C,468154,London,321,1,201.96,3,1,1,5,Low-Value,At Risk Customers
+1120,2023-05-13,999.44,Product C,688730,Paris,321,1,999.44,3,1,3,7,Mid-Value,Potential Loyalists
+7723,2023-05-13,777.22,Product D,989587,New York,321,1,777.22,3,1,2,6,Mid-Value,Potential Loyalists
+3196,2023-05-13,847.68,Product D,846606,Paris,321,1,847.68,3,1,2,6,Mid-Value,Potential Loyalists
+4892,2023-05-13,786.46,Product C,826596,New York,321,1,786.46,3,1,2,6,Mid-Value,Potential Loyalists
+7529,2023-05-13,440.15,Product B,899049,London,321,1,440.15,3,1,1,5,Low-Value,At Risk Customers
+6354,2023-05-13,700.79,Product B,152973,Tokyo,321,1,700.79,3,1,2,6,Mid-Value,Potential Loyalists
+6873,2023-05-13,307.19,Product B,981473,London,321,1,307.19,3,1,1,5,Low-Value,At Risk Customers
+5254,2023-05-14,579.39,Product C,236014,Tokyo,320,2,1132.47,3,3,3,9,High-Value,Champions
+3262,2023-05-14,215.27,Product C,794395,Tokyo,320,2,1080.46,3,3,3,9,High-Value,Champions
+2633,2023-05-14,911.34,Product A,857537,London,320,1,911.34,3,1,2,6,Mid-Value,Potential Loyalists
+2341,2023-05-14,452.28,Product C,181896,New York,320,1,452.28,3,1,1,5,Low-Value,At Risk Customers
+6542,2023-05-14,527.87,Product A,553873,London,320,1,527.87,3,1,2,6,Mid-Value,Potential Loyalists
+3150,2023-05-14,840.13,Product A,136862,Paris,320,1,840.13,3,1,2,6,Mid-Value,Potential Loyalists
+8126,2023-05-14,643.39,Product C,464032,Tokyo,320,1,643.39,3,1,2,6,Mid-Value,Potential Loyalists
+8199,2023-05-14,527.52,Product B,481574,Paris,320,1,527.52,3,1,2,6,Mid-Value,Potential Loyalists
+1166,2023-05-14,948.58,Product A,353080,Tokyo,320,1,948.58,3,1,2,6,Mid-Value,Potential Loyalists
+9901,2023-05-14,498.97,Product B,992400,Tokyo,320,1,498.97,3,1,2,6,Mid-Value,Potential Loyalists
+9064,2023-05-15,315.96,Product D,139807,New York,319,1,315.96,3,1,1,5,Low-Value,At Risk Customers
+7566,2023-05-15,511.55,Product D,670053,New York,319,1,511.55,3,1,2,6,Mid-Value,Potential Loyalists
+6986,2023-05-15,686.11,Product D,907788,New York,319,1,686.11,3,1,2,6,Mid-Value,Potential Loyalists
+6688,2023-05-15,434.09,Product C,172306,Paris,319,1,434.09,3,1,1,5,Low-Value,At Risk Customers
+4683,2023-05-15,295.78,Product D,693127,Tokyo,319,1,295.78,3,1,1,5,Low-Value,At Risk Customers
+4510,2023-05-15,140.99,Product D,354801,Tokyo,319,1,140.99,3,1,1,5,Low-Value,At Risk Customers
+4116,2023-05-15,454.13,Product D,292401,Paris,319,1,454.13,3,1,1,5,Low-Value,At Risk Customers
+8859,2023-05-15,783.62,Product C,693128,Paris,319,1,783.62,3,1,2,6,Mid-Value,Potential Loyalists
+4804,2023-05-15,741.3,Product A,283568,Tokyo,319,3,2073.33,3,5,5,13,High-Value,Champions
+7865,2023-05-15,750.04,Product B,611945,London,319,1,750.04,3,1,2,6,Mid-Value,Potential Loyalists
+2063,2023-05-16,546.75,Product C,992717,London,318,1,546.75,3,1,2,6,Mid-Value,Potential Loyalists
+6439,2023-05-16,769.74,Product D,851470,Paris,318,1,769.74,3,1,2,6,Mid-Value,Potential Loyalists
+3024,2023-05-16,260.21,Product B,315477,New York,318,1,260.21,3,1,1,5,Low-Value,At Risk Customers
+1645,2023-05-16,501.39,Product B,821634,Tokyo,318,2,1292.1100000000001,3,3,3,9,High-Value,Champions
+1643,2023-05-16,393.52,Product A,299072,Paris,318,1,393.52,3,1,1,5,Low-Value,At Risk Customers
+6829,2023-05-16,941.73,Product D,294760,Tokyo,318,1,941.73,3,1,2,6,Mid-Value,Potential Loyalists
+6939,2023-05-16,295.72,Product D,628750,Tokyo,318,1,295.72,3,1,1,5,Low-Value,At Risk Customers
+4863,2023-05-16,437.9,Product D,305587,London,318,1,437.9,3,1,1,5,Low-Value,At Risk Customers
+6714,2023-05-16,934.36,Product C,401769,New York,318,1,934.36,3,1,2,6,Mid-Value,Potential Loyalists
+7653,2023-05-16,835.39,Product C,400850,London,318,1,835.39,3,1,2,6,Mid-Value,Potential Loyalists
+8879,2023-05-16,206.13,Product D,783932,London,318,1,206.13,3,1,1,5,Low-Value,At Risk Customers
+9004,2023-05-16,760.58,Product D,777278,Tokyo,318,1,760.58,3,1,2,6,Mid-Value,Potential Loyalists
+2940,2023-05-16,766.8,Product B,913373,Tokyo,318,1,766.8,3,1,2,6,Mid-Value,Potential Loyalists
+9376,2023-05-16,574.96,Product B,198867,New York,318,1,574.96,3,1,2,6,Mid-Value,Potential Loyalists
+1182,2023-05-16,876.02,Product B,229221,New York,318,1,876.02,3,1,2,6,Mid-Value,Potential Loyalists
+1944,2023-05-16,418.55,Product D,684357,London,318,1,418.55,3,1,1,5,Low-Value,At Risk Customers
+1082,2023-05-17,600.69,Product A,419491,London,317,1,600.69,4,1,2,7,Mid-Value,Potential Loyalists
+3762,2023-05-17,766.84,Product D,923353,New York,317,1,766.84,4,1,2,7,Mid-Value,Potential Loyalists
+9918,2023-05-17,182.11,Product D,483041,New York,317,1,182.11,4,1,1,6,Mid-Value,Potential Loyalists
+5888,2023-05-17,606.76,Product C,398384,Tokyo,317,1,606.76,4,1,2,7,Mid-Value,Potential Loyalists
+1517,2023-05-17,948.72,Product A,300051,New York,317,1,948.72,4,1,2,7,Mid-Value,Potential Loyalists
+9443,2023-05-17,249.52,Product B,405420,Tokyo,317,1,249.52,4,1,1,6,Mid-Value,Potential Loyalists
+3148,2023-05-17,689.15,Product A,855829,Paris,317,1,689.15,4,1,2,7,Mid-Value,Potential Loyalists
+8796,2023-05-17,747.86,Product D,375311,New York,317,1,747.86,4,1,2,7,Mid-Value,Potential Loyalists
+1972,2023-05-17,357.31,Product C,725850,London,317,1,357.31,4,1,1,6,Mid-Value,Potential Loyalists
+4943,2023-05-17,550.17,Product D,902903,Paris,317,2,626.79,4,3,2,9,High-Value,Champions
+9044,2023-05-17,784.15,Product C,494322,Paris,317,1,784.15,4,1,2,7,Mid-Value,Potential Loyalists
+9897,2023-05-17,661.53,Product B,991737,Paris,317,1,661.53,4,1,2,7,Mid-Value,Potential Loyalists
+3661,2023-05-17,248.07,Product D,809922,Paris,317,1,248.07,4,1,1,6,Mid-Value,Potential Loyalists
+7170,2023-05-18,906.98,Product A,367865,London,316,1,906.98,4,1,2,7,Mid-Value,Potential Loyalists
+7431,2023-05-18,123.09,Product C,986589,Tokyo,316,1,123.09,4,1,1,6,Mid-Value,Potential Loyalists
+7455,2023-05-18,568.75,Product A,188025,Tokyo,316,1,568.75,4,1,2,7,Mid-Value,Potential Loyalists
+7049,2023-05-18,557.0,Product D,233636,New York,316,1,557.0,4,1,2,7,Mid-Value,Potential Loyalists
+5033,2023-05-18,598.57,Product A,539589,Paris,316,1,598.57,4,1,2,7,Mid-Value,Potential Loyalists
+7824,2023-05-18,314.6,Product A,725905,Tokyo,316,1,314.6,4,1,1,6,Mid-Value,Potential Loyalists
+3420,2023-05-18,707.65,Product B,911982,New York,316,1,707.65,4,1,2,7,Mid-Value,Potential Loyalists
+1273,2023-05-18,76.86,Product C,326222,New York,316,1,76.86,4,1,1,6,Mid-Value,Potential Loyalists
+6661,2023-05-18,306.16,Product D,823846,Paris,316,1,306.16,4,1,1,6,Mid-Value,Potential Loyalists
+9108,2023-05-19,883.52,Product D,399628,New York,315,1,883.52,4,1,2,7,Mid-Value,Potential Loyalists
+8359,2023-05-19,992.85,Product D,278852,London,315,1,992.85,4,1,3,8,High-Value,Potential Loyalists
+5660,2023-05-19,26.14,Product B,416503,New York,315,1,26.14,4,1,1,6,Mid-Value,Potential Loyalists
+6277,2023-05-19,156.85,Product B,388375,Paris,315,1,156.85,4,1,1,6,Mid-Value,Potential Loyalists
+4616,2023-05-19,720.67,Product A,318877,Tokyo,315,1,720.67,4,1,2,7,Mid-Value,Potential Loyalists
+7916,2023-05-19,72.89,Product D,724834,Tokyo,315,1,72.89,4,1,1,6,Mid-Value,Potential Loyalists
+1530,2023-05-19,161.9,Product D,488984,Paris,315,1,161.9,4,1,1,6,Mid-Value,Potential Loyalists
+7859,2023-05-19,916.75,Product B,386886,Tokyo,315,1,916.75,4,1,2,7,Mid-Value,Potential Loyalists
+7240,2023-05-19,535.25,Product D,630108,Tokyo,315,1,535.25,4,1,2,7,Mid-Value,Potential Loyalists
+4770,2023-05-19,803.91,Product B,767542,London,315,1,803.91,4,1,2,7,Mid-Value,Potential Loyalists
+7730,2023-05-19,151.29,Product B,753484,Paris,315,1,151.29,4,1,1,6,Mid-Value,Potential Loyalists
+8149,2023-05-19,984.39,Product A,503906,London,315,1,984.39,4,1,3,8,High-Value,Potential Loyalists
+3837,2023-05-19,802.86,Product B,364650,Paris,315,1,802.86,4,1,2,7,Mid-Value,Potential Loyalists
+1430,2023-05-19,929.79,Product C,130359,London,315,1,929.79,4,1,2,7,Mid-Value,Potential Loyalists
+5382,2023-05-19,648.2,Product C,566509,Paris,315,1,648.2,4,1,2,7,Mid-Value,Potential Loyalists
+1685,2023-05-19,737.98,Product D,855185,Paris,315,1,737.98,4,1,2,7,Mid-Value,Potential Loyalists
+3983,2023-05-19,325.03,Product B,770718,New York,315,1,325.03,4,1,1,6,Mid-Value,Potential Loyalists
+6267,2023-05-19,480.87,Product B,164879,Tokyo,315,1,480.87,4,1,1,6,Mid-Value,Potential Loyalists
+3120,2023-05-20,439.37,Product D,522988,Tokyo,314,1,439.37,4,1,1,6,Mid-Value,Potential Loyalists
+3719,2023-05-20,147.84,Product B,953047,London,314,1,147.84,4,1,1,6,Mid-Value,Potential Loyalists
+9383,2023-05-20,950.26,Product D,677079,Tokyo,314,1,950.26,4,1,2,7,Mid-Value,Potential Loyalists
+7457,2023-05-20,939.75,Product A,645940,New York,314,1,939.75,4,1,2,7,Mid-Value,Potential Loyalists
+6776,2023-05-20,998.17,Product C,770532,New York,314,1,998.17,4,1,3,8,High-Value,Potential Loyalists
+8251,2023-05-20,816.86,Product D,970914,Tokyo,314,1,816.86,4,1,2,7,Mid-Value,Potential Loyalists
+9615,2023-05-20,704.3,Product C,151470,Paris,314,1,704.3,4,1,2,7,Mid-Value,Potential Loyalists
+3525,2023-05-20,290.3,Product D,772036,Paris,314,1,290.3,4,1,1,6,Mid-Value,Potential Loyalists
+1567,2023-05-20,622.98,Product B,778720,Paris,314,1,622.98,4,1,2,7,Mid-Value,Potential Loyalists
+1025,2023-05-20,359.29,Product D,296412,New York,314,1,359.29,4,1,1,6,Mid-Value,Potential Loyalists
+2293,2023-05-20,872.13,Product B,621841,London,314,1,872.13,4,1,2,7,Mid-Value,Potential Loyalists
+4617,2023-05-20,836.4,Product B,220190,London,314,1,836.4,4,1,2,7,Mid-Value,Potential Loyalists
+7825,2023-05-20,642.6,Product D,757629,Paris,314,1,642.6,4,1,2,7,Mid-Value,Potential Loyalists
+9761,2023-05-20,58.1,Product A,794125,New York,314,1,58.1,4,1,1,6,Mid-Value,Potential Loyalists
+1713,2023-05-21,393.01,Product C,365971,New York,313,1,393.01,4,1,1,6,Mid-Value,Potential Loyalists
+6822,2023-05-21,309.3,Product C,951331,New York,313,1,309.3,4,1,1,6,Mid-Value,Potential Loyalists
+6934,2023-05-21,892.66,Product D,841666,London,313,1,892.66,4,1,2,7,Mid-Value,Potential Loyalists
+7911,2023-05-21,616.19,Product D,990136,New York,313,1,616.19,4,1,2,7,Mid-Value,Potential Loyalists
+2035,2023-05-21,825.62,Product C,780776,Tokyo,313,1,825.62,4,1,2,7,Mid-Value,Potential Loyalists
+3871,2023-05-21,499.42,Product A,311505,Paris,313,1,499.42,4,1,2,7,Mid-Value,Potential Loyalists
+1185,2023-05-21,209.18,Product C,366776,New York,313,1,209.18,4,1,1,6,Mid-Value,Potential Loyalists
+3280,2023-05-21,309.8,Product C,790658,London,313,1,309.8,4,1,1,6,Mid-Value,Potential Loyalists
+6134,2023-05-21,67.43,Product D,386814,London,313,1,67.43,4,1,1,6,Mid-Value,Potential Loyalists
+5285,2023-05-22,365.96,Product B,165142,New York,312,1,365.96,4,1,1,6,Mid-Value,Potential Loyalists
+7666,2023-05-22,935.68,Product D,600641,London,312,1,935.68,4,1,2,7,Mid-Value,Potential Loyalists
+5350,2023-05-22,785.07,Product B,856442,New York,312,1,785.07,4,1,2,7,Mid-Value,Potential Loyalists
+7797,2023-05-22,108.03,Product D,745558,Tokyo,312,2,510.52,4,3,2,9,High-Value,Champions
+9266,2023-05-22,180.83,Product B,841995,Tokyo,312,1,180.83,4,1,1,6,Mid-Value,Potential Loyalists
+6499,2023-05-22,98.41,Product C,334176,Paris,312,1,98.41,4,1,1,6,Mid-Value,Potential Loyalists
+4387,2023-05-22,147.19,Product B,244818,Paris,312,1,147.19,4,1,1,6,Mid-Value,Potential Loyalists
+1190,2023-05-22,935.03,Product D,993251,Tokyo,312,1,935.03,4,1,2,7,Mid-Value,Potential Loyalists
+7275,2023-05-22,490.73,Product D,139285,London,312,1,490.73,4,1,2,7,Mid-Value,Potential Loyalists
+1828,2023-05-22,999.29,Product A,197793,London,312,1,999.29,4,1,3,8,High-Value,Potential Loyalists
+3879,2023-05-22,610.56,Product C,966589,London,312,1,610.56,4,1,2,7,Mid-Value,Potential Loyalists
+7909,2023-05-22,887.26,Product B,218548,London,312,1,887.26,4,1,2,7,Mid-Value,Potential Loyalists
+3417,2023-05-22,690.75,Product A,916232,Tokyo,312,1,690.75,4,1,2,7,Mid-Value,Potential Loyalists
+4483,2023-05-22,504.24,Product D,249811,Paris,312,1,504.24,4,1,2,7,Mid-Value,Potential Loyalists
+4626,2023-05-22,232.86,Product B,382154,Tokyo,312,1,232.86,4,1,1,6,Mid-Value,Potential Loyalists
+8504,2023-05-22,964.39,Product A,602248,Tokyo,312,1,964.39,4,1,3,8,High-Value,Potential Loyalists
+5664,2023-05-22,745.5,Product C,532961,London,312,1,745.5,4,1,2,7,Mid-Value,Potential Loyalists
+5192,2023-05-22,238.85,Product C,376955,Tokyo,312,1,238.85,4,1,1,6,Mid-Value,Potential Loyalists
+8982,2023-05-22,324.11,Product C,334081,London,312,1,324.11,4,1,1,6,Mid-Value,Potential Loyalists
+8758,2023-05-23,123.25,Product B,587623,Paris,311,1,123.25,4,1,1,6,Mid-Value,Potential Loyalists
+2229,2023-05-23,641.14,Product C,638009,London,311,1,641.14,4,1,2,7,Mid-Value,Potential Loyalists
+8493,2023-05-23,593.42,Product B,623059,New York,311,1,593.42,4,1,2,7,Mid-Value,Potential Loyalists
+5762,2023-05-23,76.69,Product A,307007,Tokyo,311,1,76.69,4,1,1,6,Mid-Value,Potential Loyalists
+7078,2023-05-23,949.89,Product D,715870,London,311,1,949.89,4,1,2,7,Mid-Value,Potential Loyalists
+3535,2023-05-23,487.37,Product A,467121,Paris,311,1,487.37,4,1,2,7,Mid-Value,Potential Loyalists
+6400,2023-05-23,131.01,Product C,797660,Tokyo,311,1,131.01,4,1,1,6,Mid-Value,Potential Loyalists
+5088,2023-05-23,111.77,Product D,750810,London,311,1,111.77,4,1,1,6,Mid-Value,Potential Loyalists
+9621,2023-05-23,256.28,Product B,685549,Tokyo,311,1,256.28,4,1,1,6,Mid-Value,Potential Loyalists
+3804,2023-05-23,628.23,Product C,983456,New York,311,1,628.23,4,1,2,7,Mid-Value,Potential Loyalists
+5060,2023-05-23,248.74,Product A,901164,London,311,1,248.74,4,1,1,6,Mid-Value,Potential Loyalists
+9538,2023-05-23,982.29,Product D,508024,Paris,311,1,982.29,4,1,3,8,High-Value,Potential Loyalists
+2501,2023-05-23,219.98,Product A,153035,Paris,311,1,219.98,4,1,1,6,Mid-Value,Potential Loyalists
+2879,2023-05-23,352.55,Product B,773462,London,311,1,352.55,4,1,1,6,Mid-Value,Potential Loyalists
+5298,2023-05-23,864.01,Product C,725969,Tokyo,311,1,864.01,4,1,2,7,Mid-Value,Potential Loyalists
+1653,2023-05-24,886.8,Product D,934883,New York,310,1,886.8,4,1,2,7,Mid-Value,Potential Loyalists
+4750,2023-05-24,837.6,Product A,901909,Paris,310,1,837.6,4,1,2,7,Mid-Value,Potential Loyalists
+8575,2023-05-24,808.85,Product A,515182,Paris,310,1,808.85,4,1,2,7,Mid-Value,Potential Loyalists
+5890,2023-05-24,117.02,Product A,452618,Paris,310,1,117.02,4,1,1,6,Mid-Value,Potential Loyalists
+1193,2023-05-24,218.64,Product A,441244,Paris,310,1,218.64,4,1,1,6,Mid-Value,Potential Loyalists
+2791,2023-05-24,802.05,Product B,641058,London,310,1,802.05,4,1,2,7,Mid-Value,Potential Loyalists
+6236,2023-05-24,148.53,Product A,787237,Tokyo,310,1,148.53,4,1,1,6,Mid-Value,Potential Loyalists
+8517,2023-05-24,466.11,Product A,605382,New York,310,1,466.11,4,1,1,6,Mid-Value,Potential Loyalists
+2679,2023-05-24,743.26,Product A,719176,Tokyo,310,1,743.26,4,1,2,7,Mid-Value,Potential Loyalists
+7984,2023-05-24,116.88,Product D,177060,New York,310,1,116.88,4,1,1,6,Mid-Value,Potential Loyalists
+5106,2023-05-24,758.02,Product B,758765,New York,310,1,758.02,4,1,2,7,Mid-Value,Potential Loyalists
+7179,2023-05-24,608.92,Product A,176319,London,310,1,608.92,4,1,2,7,Mid-Value,Potential Loyalists
+9510,2023-05-24,450.62,Product A,829386,Paris,310,1,450.62,4,1,1,6,Mid-Value,Potential Loyalists
+4598,2023-05-24,331.04,Product A,340174,New York,310,1,331.04,4,1,1,6,Mid-Value,Potential Loyalists
+6298,2023-05-24,924.9,Product A,217996,Tokyo,310,1,924.9,4,1,2,7,Mid-Value,Potential Loyalists
+7211,2023-05-24,750.65,Product B,745414,Paris,310,1,750.65,4,1,2,7,Mid-Value,Potential Loyalists
+8244,2023-05-24,221.56,Product D,932291,London,310,1,221.56,4,1,1,6,Mid-Value,Potential Loyalists
+7116,2023-05-25,149.94,Product D,538555,London,309,1,149.94,4,1,1,6,Mid-Value,Potential Loyalists
+6644,2023-05-25,73.12,Product A,172371,Tokyo,309,1,73.12,4,1,1,6,Mid-Value,Potential Loyalists
+5477,2023-05-25,764.79,Product C,468074,New York,309,1,764.79,4,1,2,7,Mid-Value,Potential Loyalists
+2999,2023-05-25,860.81,Product C,652654,Tokyo,309,1,860.81,4,1,2,7,Mid-Value,Potential Loyalists
+6431,2023-05-25,245.2,Product D,381631,Paris,309,1,245.2,4,1,1,6,Mid-Value,Potential Loyalists
+6890,2023-05-25,896.55,Product A,214682,London,309,1,896.55,4,1,2,7,Mid-Value,Potential Loyalists
+3521,2023-05-25,540.99,Product A,231939,Tokyo,309,1,540.99,4,1,2,7,Mid-Value,Potential Loyalists
+2669,2023-05-25,774.76,Product A,934904,New York,309,1,774.76,4,1,2,7,Mid-Value,Potential Loyalists
+7939,2023-05-25,408.25,Product B,390946,New York,309,2,763.0699999999999,4,3,2,9,High-Value,Champions
+9892,2023-05-25,495.19,Product B,670027,Paris,309,1,495.19,4,1,2,7,Mid-Value,Potential Loyalists
+4090,2023-05-25,246.42,Product D,344907,Tokyo,309,1,246.42,4,1,1,6,Mid-Value,Potential Loyalists
+3248,2023-05-25,21.24,Product D,463546,Paris,309,1,21.24,4,1,1,6,Mid-Value,Potential Loyalists
+6008,2023-05-25,588.33,Product C,946934,Paris,309,1,588.33,4,1,2,7,Mid-Value,Potential Loyalists
+2195,2023-05-25,69.31,Product D,535810,Tokyo,309,1,69.31,4,1,1,6,Mid-Value,Potential Loyalists
+4974,2023-05-25,608.36,Product B,515898,London,309,2,982.95,4,3,3,10,High-Value,Champions
+8612,2023-05-25,483.75,Product B,950916,London,309,1,483.75,4,1,1,6,Mid-Value,Potential Loyalists
+4920,2023-05-26,166.79,Product A,679077,Tokyo,308,1,166.79,4,1,1,6,Mid-Value,Potential Loyalists
+7626,2023-05-26,643.74,Product C,220768,Tokyo,308,1,643.74,4,1,2,7,Mid-Value,Potential Loyalists
+6582,2023-05-26,185.69,Product C,162448,New York,308,1,185.69,4,1,1,6,Mid-Value,Potential Loyalists
+2691,2023-05-26,968.76,Product C,975427,Paris,308,1,968.76,4,1,3,8,High-Value,Potential Loyalists
+5215,2023-05-26,194.34,Product C,929179,Paris,308,1,194.34,4,1,1,6,Mid-Value,Potential Loyalists
+4812,2023-05-26,297.58,Product B,101657,New York,308,2,1279.44,4,3,3,10,High-Value,Champions
+9331,2023-05-26,108.61,Product C,608205,New York,308,2,136.66,4,3,1,8,High-Value,Potential Loyalists
+2033,2023-05-26,778.43,Product D,138780,Paris,308,1,778.43,4,1,2,7,Mid-Value,Potential Loyalists
+8640,2023-05-26,938.12,Product A,261169,Paris,308,1,938.12,4,1,2,7,Mid-Value,Potential Loyalists
+7809,2023-05-26,841.49,Product D,275377,New York,308,1,841.49,4,1,2,7,Mid-Value,Potential Loyalists
+4257,2023-05-26,653.39,Product D,331148,Tokyo,308,1,653.39,4,1,2,7,Mid-Value,Potential Loyalists
+5735,2023-05-26,215.21,Product D,432441,Tokyo,308,1,215.21,4,1,1,6,Mid-Value,Potential Loyalists
+3173,2023-05-26,653.59,Product B,628370,Paris,308,1,653.59,4,1,2,7,Mid-Value,Potential Loyalists
+5308,2023-05-26,975.3,Product A,620248,Tokyo,308,1,975.3,4,1,3,8,High-Value,Potential Loyalists
+6411,2023-05-26,477.68,Product B,105433,London,308,1,477.68,4,1,1,6,Mid-Value,Potential Loyalists
+4185,2023-05-26,699.39,Product D,519066,London,308,1,699.39,4,1,2,7,Mid-Value,Potential Loyalists
+6302,2023-05-26,299.71,Product C,999695,New York,308,1,299.71,4,1,1,6,Mid-Value,Potential Loyalists
+6071,2023-05-27,770.94,Product D,402808,London,307,1,770.94,4,1,2,7,Mid-Value,Potential Loyalists
+3747,2023-05-27,688.74,Product D,725510,New York,307,1,688.74,4,1,2,7,Mid-Value,Potential Loyalists
+1711,2023-05-27,464.83,Product A,496922,New York,307,1,464.83,4,1,1,6,Mid-Value,Potential Loyalists
+8924,2023-05-27,691.77,Product C,547798,Paris,307,1,691.77,4,1,2,7,Mid-Value,Potential Loyalists
+9514,2023-05-27,635.54,Product D,947228,London,307,2,1553.53,4,3,4,11,High-Value,Champions
+9751,2023-05-27,252.36,Product D,497887,Paris,307,1,252.36,4,1,1,6,Mid-Value,Potential Loyalists
+6005,2023-05-27,702.45,Product B,550081,New York,307,1,702.45,4,1,2,7,Mid-Value,Potential Loyalists
+2526,2023-05-27,972.43,Product C,991401,New York,307,2,1635.23,4,3,4,11,High-Value,Champions
+2438,2023-05-27,388.39,Product B,537605,London,307,1,388.39,4,1,1,6,Mid-Value,Potential Loyalists
+3041,2023-05-27,901.05,Product C,799287,Tokyo,307,1,901.05,4,1,2,7,Mid-Value,Potential Loyalists
+9673,2023-05-27,281.99,Product C,117975,Tokyo,307,1,281.99,4,1,1,6,Mid-Value,Potential Loyalists
+1612,2023-05-27,810.26,Product D,182289,New York,307,1,810.26,4,1,2,7,Mid-Value,Potential Loyalists
+4562,2023-05-27,86.43,Product C,931420,Tokyo,307,1,86.43,4,1,1,6,Mid-Value,Potential Loyalists
+8179,2023-05-27,425.46,Product B,534130,Tokyo,307,1,425.46,4,1,1,6,Mid-Value,Potential Loyalists
+5040,2023-05-27,628.78,Product B,580102,New York,307,1,628.78,4,1,2,7,Mid-Value,Potential Loyalists
+5634,2023-05-27,305.57,Product D,255813,Tokyo,307,2,720.25,4,3,2,9,High-Value,Champions
+6303,2023-05-27,473.71,Product B,172222,London,307,1,473.71,4,1,1,6,Mid-Value,Potential Loyalists
+3048,2023-05-27,242.28,Product C,880009,New York,307,1,242.28,4,1,1,6,Mid-Value,Potential Loyalists
+3384,2023-05-27,39.19,Product C,534152,Tokyo,307,1,39.19,4,1,1,6,Mid-Value,Potential Loyalists
+2658,2023-05-27,238.71,Product D,298663,London,307,1,238.71,4,1,1,6,Mid-Value,Potential Loyalists
+4675,2023-05-27,985.03,Product B,869735,New York,307,1,985.03,4,1,3,8,High-Value,Potential Loyalists
+4727,2023-05-28,99.48,Product A,897305,New York,306,1,99.48,4,1,1,6,Mid-Value,Potential Loyalists
+9175,2023-05-28,207.67,Product B,378297,London,306,1,207.67,4,1,1,6,Mid-Value,Potential Loyalists
+5923,2023-05-28,448.68,Product C,382507,Tokyo,306,1,448.68,4,1,1,6,Mid-Value,Potential Loyalists
+8370,2023-05-28,341.31,Product C,477808,Paris,306,1,341.31,4,1,1,6,Mid-Value,Potential Loyalists
+8078,2023-05-28,329.1,Product C,127121,New York,306,1,329.1,4,1,1,6,Mid-Value,Potential Loyalists
+7971,2023-05-28,554.88,Product C,836996,Tokyo,306,2,816.85,4,3,2,9,High-Value,Champions
+5049,2023-05-28,994.59,Product B,583220,New York,306,1,994.59,4,1,3,8,High-Value,Potential Loyalists
+1212,2023-05-28,258.83,Product D,970300,London,306,1,258.83,4,1,1,6,Mid-Value,Potential Loyalists
+3607,2023-05-28,862.88,Product D,371782,London,306,1,862.88,4,1,2,7,Mid-Value,Potential Loyalists
+4714,2023-05-28,656.25,Product A,764678,Tokyo,306,1,656.25,4,1,2,7,Mid-Value,Potential Loyalists
+9689,2023-05-28,58.09,Product D,979562,Tokyo,306,1,58.09,4,1,1,6,Mid-Value,Potential Loyalists
+3938,2023-05-28,925.24,Product D,941204,London,306,2,1731.53,4,3,4,11,High-Value,Champions
+8511,2023-05-28,94.05,Product A,629979,London,306,1,94.05,4,1,1,6,Mid-Value,Potential Loyalists
+3647,2023-05-28,447.42,Product D,688153,New York,306,1,447.42,4,1,1,6,Mid-Value,Potential Loyalists
+5009,2023-05-28,53.79,Product D,345722,London,306,1,53.79,4,1,1,6,Mid-Value,Potential Loyalists
+7445,2023-05-28,165.44,Product C,817552,Paris,306,1,165.44,4,1,1,6,Mid-Value,Potential Loyalists
+4646,2023-05-28,674.63,Product B,894586,London,306,1,674.63,4,1,2,7,Mid-Value,Potential Loyalists
+5201,2023-05-28,484.29,Product B,968170,Paris,306,1,484.29,4,1,1,6,Mid-Value,Potential Loyalists
+2753,2023-05-28,557.69,Product C,395442,London,306,1,557.69,4,1,2,7,Mid-Value,Potential Loyalists
+2582,2023-05-28,741.41,Product B,683397,New York,306,1,741.41,4,1,2,7,Mid-Value,Potential Loyalists
+1049,2023-05-28,225.72,Product A,147489,Tokyo,306,1,225.72,4,1,1,6,Mid-Value,Potential Loyalists
+6885,2023-05-29,196.54,Product D,120053,London,305,1,196.54,5,1,1,7,Mid-Value,Potential Loyalists
+2489,2023-05-29,56.65,Product A,260265,London,305,1,56.65,5,1,1,7,Mid-Value,Potential Loyalists
+7288,2023-05-29,742.35,Product A,625119,Paris,305,1,742.35,5,1,2,8,High-Value,Potential Loyalists
+6896,2023-05-29,277.07,Product B,191537,London,305,1,277.07,5,1,1,7,Mid-Value,Potential Loyalists
+9954,2023-05-29,798.01,Product B,106687,Tokyo,305,1,798.01,5,1,2,8,High-Value,Potential Loyalists
+2036,2023-05-29,748.49,Product A,834928,New York,305,1,748.49,5,1,2,8,High-Value,Potential Loyalists
+8242,2023-05-29,61.1,Product C,675898,London,305,1,61.1,5,1,1,7,Mid-Value,Potential Loyalists
+1659,2023-05-29,758.71,Product D,644173,Tokyo,305,1,758.71,5,1,2,8,High-Value,Potential Loyalists
+4110,2023-05-29,167.75,Product D,622987,Paris,305,1,167.75,5,1,1,7,Mid-Value,Potential Loyalists
+5216,2023-05-29,823.38,Product D,583214,London,305,1,823.38,5,1,2,8,High-Value,Potential Loyalists
+2133,2023-05-29,537.38,Product B,234628,Tokyo,305,2,1386.69,5,3,3,11,High-Value,Champions
+7025,2023-05-29,592.5,Product B,913848,London,305,1,592.5,5,1,2,8,High-Value,Potential Loyalists
+3555,2023-05-29,731.2,Product A,217830,New York,305,1,731.2,5,1,2,8,High-Value,Potential Loyalists
+5558,2023-05-29,951.69,Product D,364525,New York,305,1,951.69,5,1,2,8,High-Value,Potential Loyalists
+3221,2023-05-29,787.83,Product A,390794,London,305,1,787.83,5,1,2,8,High-Value,Potential Loyalists
+2890,2023-05-29,358.72,Product D,711116,Tokyo,305,1,358.72,5,1,1,7,Mid-Value,Potential Loyalists
+9475,2023-05-29,247.9,Product A,944554,Tokyo,305,1,247.9,5,1,1,7,Mid-Value,Potential Loyalists
+8273,2023-05-29,86.12,Product B,655178,Paris,305,1,86.12,5,1,1,7,Mid-Value,Potential Loyalists
+8300,2023-05-29,599.18,Product A,332873,Tokyo,305,1,599.18,5,1,2,8,High-Value,Potential Loyalists
+2765,2023-05-29,420.33,Product A,909652,Tokyo,305,1,420.33,5,1,1,7,Mid-Value,Potential Loyalists
+9797,2023-05-29,274.16,Product C,216970,Paris,305,1,274.16,5,1,1,7,Mid-Value,Potential Loyalists
+2882,2023-05-29,285.78,Product B,946432,Tokyo,305,1,285.78,5,1,1,7,Mid-Value,Potential Loyalists
+8692,2023-05-29,841.33,Product B,488712,Paris,305,1,841.33,5,1,2,8,High-Value,Potential Loyalists
+7511,2023-05-29,211.66,Product D,287401,Paris,305,2,1018.1999999999999,5,3,3,11,High-Value,Champions
+1833,2023-05-30,933.06,Product C,614379,Paris,304,1,933.06,5,1,2,8,High-Value,Potential Loyalists
+5520,2023-05-30,405.44,Product D,525146,London,304,1,405.44,5,1,1,7,Mid-Value,Potential Loyalists
+2728,2023-05-30,642.24,Product C,807256,Tokyo,304,1,642.24,5,1,2,8,High-Value,Potential Loyalists
+9328,2023-05-30,921.95,Product B,825423,London,304,2,1710.17,5,3,4,12,High-Value,Champions
+6269,2023-05-30,290.23,Product D,659572,Paris,304,1,290.23,5,1,1,7,Mid-Value,Potential Loyalists
+3230,2023-05-30,772.45,Product A,262959,New York,304,1,772.45,5,1,2,8,High-Value,Potential Loyalists
+2404,2023-05-30,622.43,Product B,847748,New York,304,1,622.43,5,1,2,8,High-Value,Potential Loyalists
+2124,2023-05-30,957.71,Product A,890870,New York,304,1,957.71,5,1,2,8,High-Value,Potential Loyalists
+7084,2023-05-30,98.59,Product B,624203,New York,304,1,98.59,5,1,1,7,Mid-Value,Potential Loyalists
+5179,2023-05-30,111.88,Product A,339499,New York,304,1,111.88,5,1,1,7,Mid-Value,Potential Loyalists
+3945,2023-05-30,589.59,Product B,512160,Tokyo,304,1,589.59,5,1,2,8,High-Value,Potential Loyalists
+1719,2023-05-30,179.18,Product C,692960,London,304,1,179.18,5,1,1,7,Mid-Value,Potential Loyalists
+3954,2023-05-30,90.0,Product C,761685,London,304,1,90.0,5,1,1,7,Mid-Value,Potential Loyalists
+5543,2023-05-30,779.9,Product D,757193,London,304,1,779.9,5,1,2,8,High-Value,Potential Loyalists
+3742,2023-05-31,283.34,Product A,515035,London,303,1,283.34,5,1,1,7,Mid-Value,Potential Loyalists
+6432,2023-05-31,436.15,Product A,203396,Paris,303,1,436.15,5,1,1,7,Mid-Value,Potential Loyalists
+2194,2023-05-31,710.6,Product B,292800,New York,303,1,710.6,5,1,2,8,High-Value,Potential Loyalists
+8317,2023-05-31,702.32,Product B,205149,London,303,2,974.8800000000001,5,3,3,11,High-Value,Champions
+8342,2023-05-31,27.07,Product C,332360,Tokyo,303,1,27.07,5,1,1,7,Mid-Value,Potential Loyalists
+7046,2023-05-31,711.35,Product C,654718,New York,303,2,1662.1,5,3,4,12,High-Value,Champions
+5334,2023-05-31,793.34,Product B,545790,New York,303,1,793.34,5,1,2,8,High-Value,Potential Loyalists
+7932,2023-05-31,383.22,Product D,726979,Tokyo,303,1,383.22,5,1,1,7,Mid-Value,Potential Loyalists
+9907,2023-05-31,29.33,Product D,919898,Paris,303,1,29.33,5,1,1,7,Mid-Value,Potential Loyalists
+6869,2023-05-31,790.55,Product C,116547,London,303,1,790.55,5,1,2,8,High-Value,Potential Loyalists
+1505,2023-05-31,763.45,Product C,134283,Paris,303,1,763.45,5,1,2,8,High-Value,Potential Loyalists
+4788,2023-05-31,17.15,Product C,297731,Tokyo,303,2,714.16,5,3,2,10,High-Value,Champions
+5747,2023-05-31,400.38,Product B,452497,New York,303,1,400.38,5,1,1,7,Mid-Value,Potential Loyalists
+8043,2023-05-31,584.18,Product C,587575,Tokyo,303,1,584.18,5,1,2,8,High-Value,Potential Loyalists
+3852,2023-05-31,367.88,Product B,227257,London,303,1,367.88,5,1,1,7,Mid-Value,Potential Loyalists
+8951,2023-05-31,350.3,Product A,148174,New York,303,1,350.3,5,1,1,7,Mid-Value,Potential Loyalists
+7889,2023-05-31,887.98,Product C,373216,Paris,303,1,887.98,5,1,2,8,High-Value,Potential Loyalists
+2624,2023-05-31,704.76,Product B,550961,Tokyo,303,1,704.76,5,1,2,8,High-Value,Potential Loyalists
+6850,2023-05-31,76.88,Product B,868544,New York,303,1,76.88,5,1,1,7,Mid-Value,Potential Loyalists
+8657,2023-06-01,983.18,Product B,741674,New York,302,1,983.18,5,1,3,9,High-Value,Champions
+1086,2023-06-01,100.18,Product B,594580,Tokyo,302,1,100.18,5,1,1,7,Mid-Value,Potential Loyalists
+7793,2023-06-01,336.92,Product A,604906,Tokyo,302,2,391.96000000000004,5,3,1,9,High-Value,Champions
+6901,2023-06-01,680.0,Product D,874415,New York,302,1,680.0,5,1,2,8,High-Value,Potential Loyalists
+6210,2023-06-01,740.72,Product C,720298,New York,302,1,740.72,5,1,2,8,High-Value,Potential Loyalists
+5557,2023-06-01,870.61,Product B,832052,Tokyo,302,3,2379.45,5,5,5,15,High-Value,Champions
+9426,2023-06-01,513.65,Product D,145981,Paris,302,1,513.65,5,1,2,8,High-Value,Potential Loyalists
+6549,2023-06-01,124.02,Product A,247594,London,302,1,124.02,5,1,1,7,Mid-Value,Potential Loyalists
+9806,2023-06-01,667.45,Product B,898867,London,302,1,667.45,5,1,2,8,High-Value,Potential Loyalists
+2695,2023-06-01,900.14,Product C,849014,New York,302,1,900.14,5,1,2,8,High-Value,Potential Loyalists
+9880,2023-06-02,759.22,Product D,672892,London,301,1,759.22,5,1,2,8,High-Value,Potential Loyalists
+4308,2023-06-02,630.95,Product C,435281,New York,301,1,630.95,5,1,2,8,High-Value,Potential Loyalists
+5582,2023-06-02,989.2,Product A,234913,New York,301,1,989.2,5,1,3,9,High-Value,Champions
+6876,2023-06-02,458.07,Product B,878476,Tokyo,301,1,458.07,5,1,1,7,Mid-Value,Potential Loyalists
+6381,2023-06-02,136.52,Product A,777406,Tokyo,301,1,136.52,5,1,1,7,Mid-Value,Potential Loyalists
+4538,2023-06-02,871.0,Product C,911984,London,301,1,871.0,5,1,2,8,High-Value,Potential Loyalists
+2133,2023-06-02,849.31,Product D,805668,Tokyo,301,2,1386.69,5,3,3,11,High-Value,Champions
+4196,2023-06-02,390.1,Product D,529008,Tokyo,301,1,390.1,5,1,1,7,Mid-Value,Potential Loyalists
+5444,2023-06-02,87.11,Product C,225200,New York,301,1,87.11,5,1,1,7,Mid-Value,Potential Loyalists
+7708,2023-06-02,579.15,Product B,432427,New York,301,1,579.15,5,1,2,8,High-Value,Potential Loyalists
+2869,2023-06-02,74.69,Product D,177680,New York,301,1,74.69,5,1,1,7,Mid-Value,Potential Loyalists
+7242,2023-06-02,642.16,Product C,213609,London,301,1,642.16,5,1,2,8,High-Value,Potential Loyalists
+3826,2023-06-02,676.85,Product C,744333,New York,301,1,676.85,5,1,2,8,High-Value,Potential Loyalists
+8780,2023-06-02,26.47,Product C,806537,New York,301,1,26.47,5,1,1,7,Mid-Value,Potential Loyalists
+6781,2023-06-02,869.04,Product D,931161,Tokyo,301,1,869.04,5,1,2,8,High-Value,Potential Loyalists
+7342,2023-06-02,527.36,Product D,700534,London,301,1,527.36,5,1,2,8,High-Value,Potential Loyalists
+6818,2023-06-03,637.32,Product C,674295,Paris,300,1,637.32,5,1,2,8,High-Value,Potential Loyalists
+5803,2023-06-03,632.35,Product C,705397,London,300,1,632.35,5,1,2,8,High-Value,Potential Loyalists
+7807,2023-06-03,487.67,Product D,355570,Tokyo,300,1,487.67,5,1,2,8,High-Value,Potential Loyalists
+3399,2023-06-03,71.41,Product C,313910,New York,300,2,123.06,5,3,1,9,High-Value,Champions
+4533,2023-06-03,158.02,Product D,216587,Paris,300,1,158.02,5,1,1,7,Mid-Value,Potential Loyalists
+2010,2023-06-03,783.15,Product B,237064,London,300,1,783.15,5,1,2,8,High-Value,Potential Loyalists
+3704,2023-06-03,472.72,Product B,752483,New York,300,1,472.72,5,1,1,7,Mid-Value,Potential Loyalists
+8001,2023-06-03,554.97,Product C,593687,London,300,1,554.97,5,1,2,8,High-Value,Potential Loyalists
+2153,2023-06-03,310.87,Product B,644719,New York,300,1,310.87,5,1,1,7,Mid-Value,Potential Loyalists
+4522,2023-06-03,858.01,Product B,195643,London,300,1,858.01,5,1,2,8,High-Value,Potential Loyalists
+7251,2023-06-03,22.49,Product B,503489,Tokyo,300,2,444.89,5,3,1,9,High-Value,Champions
+2011,2023-06-03,552.17,Product B,700521,London,300,1,552.17,5,1,2,8,High-Value,Potential Loyalists
+7862,2023-06-03,899.64,Product A,396439,New York,300,1,899.64,5,1,2,8,High-Value,Potential Loyalists
+8595,2023-06-03,649.64,Product A,857750,New York,300,1,649.64,5,1,2,8,High-Value,Potential Loyalists
+9311,2023-06-03,514.62,Product D,843167,Paris,300,1,514.62,5,1,2,8,High-Value,Potential Loyalists
+8484,2023-06-04,309.1,Product D,994787,Tokyo,299,1,309.1,5,1,1,7,Mid-Value,Potential Loyalists
+1891,2023-06-04,753.53,Product D,775990,New York,299,1,753.53,5,1,2,8,High-Value,Potential Loyalists
+8369,2023-06-04,377.37,Product B,154040,Paris,299,1,377.37,5,1,1,7,Mid-Value,Potential Loyalists
+1439,2023-06-04,848.6,Product C,315425,London,299,1,848.6,5,1,2,8,High-Value,Potential Loyalists
+5281,2023-06-04,540.74,Product C,741603,Paris,299,1,540.74,5,1,2,8,High-Value,Potential Loyalists
+7164,2023-06-04,740.7,Product C,208998,London,299,1,740.7,5,1,2,8,High-Value,Potential Loyalists
+6383,2023-06-04,677.61,Product D,432043,Tokyo,299,1,677.61,5,1,2,8,High-Value,Potential Loyalists
+2556,2023-06-04,760.62,Product A,110142,London,299,1,760.62,5,1,2,8,High-Value,Potential Loyalists
+6319,2023-06-04,378.0,Product D,966286,Paris,299,1,378.0,5,1,1,7,Mid-Value,Potential Loyalists
+7511,2023-06-04,806.54,Product C,194689,Tokyo,299,2,1018.1999999999999,5,3,3,11,High-Value,Champions
+9452,2023-06-04,133.43,Product A,900185,London,299,1,133.43,5,1,1,7,Mid-Value,Potential Loyalists
+4868,2023-06-04,369.06,Product C,670913,Paris,299,1,369.06,5,1,1,7,Mid-Value,Potential Loyalists
+1721,2023-06-04,864.3,Product B,148215,Tokyo,299,1,864.3,5,1,2,8,High-Value,Potential Loyalists
+4014,2023-06-04,393.59,Product D,244192,London,299,1,393.59,5,1,1,7,Mid-Value,Potential Loyalists
+9054,2023-06-04,699.22,Product A,339030,London,299,1,699.22,5,1,2,8,High-Value,Potential Loyalists
+4948,2023-06-04,233.09,Product B,944917,Tokyo,299,1,233.09,5,1,1,7,Mid-Value,Potential Loyalists
+8598,2023-06-04,126.6,Product A,765213,New York,299,1,126.6,5,1,1,7,Mid-Value,Potential Loyalists
+1305,2023-06-04,512.11,Product A,952117,Tokyo,299,2,1234.46,5,3,3,11,High-Value,Champions
+4913,2023-06-04,964.36,Product B,893988,London,299,1,964.36,5,1,3,9,High-Value,Champions
+3262,2023-06-04,865.19,Product A,884140,London,299,2,1080.46,5,3,3,11,High-Value,Champions
+1207,2023-06-04,425.86,Product D,210665,Tokyo,299,1,425.86,5,1,1,7,Mid-Value,Potential Loyalists
+4878,2023-06-05,170.88,Product B,532322,New York,298,1,170.88,5,1,1,7,Mid-Value,Potential Loyalists
+9564,2023-06-05,910.25,Product D,966662,London,298,2,945.27,5,3,2,10,High-Value,Champions
+5564,2023-06-05,78.73,Product C,468203,Tokyo,298,1,78.73,5,1,1,7,Mid-Value,Potential Loyalists
+6323,2023-06-05,462.97,Product B,548324,Tokyo,298,1,462.97,5,1,1,7,Mid-Value,Potential Loyalists
+8620,2023-06-05,289.48,Product C,443199,New York,298,1,289.48,5,1,1,7,Mid-Value,Potential Loyalists
+9462,2023-06-05,380.17,Product A,640299,London,298,1,380.17,5,1,1,7,Mid-Value,Potential Loyalists
+3656,2023-06-05,153.16,Product A,539963,Paris,298,1,153.16,5,1,1,7,Mid-Value,Potential Loyalists
+3972,2023-06-05,151.82,Product D,172965,London,298,1,151.82,5,1,1,7,Mid-Value,Potential Loyalists
+5067,2023-06-05,903.29,Product C,705748,Paris,298,2,1005.37,5,3,3,11,High-Value,Champions
+2975,2023-06-05,428.09,Product B,600905,New York,298,1,428.09,5,1,1,7,Mid-Value,Potential Loyalists
+3604,2023-06-05,933.4,Product C,197874,Paris,298,1,933.4,5,1,2,8,High-Value,Potential Loyalists
+1514,2023-06-05,337.12,Product B,392004,Tokyo,298,1,337.12,5,1,1,7,Mid-Value,Potential Loyalists
+5687,2023-06-05,540.28,Product C,530849,Paris,298,1,540.28,5,1,2,8,High-Value,Potential Loyalists
+6328,2023-06-05,481.39,Product C,675191,Tokyo,298,1,481.39,5,1,1,7,Mid-Value,Potential Loyalists
+3267,2023-06-05,257.5,Product D,489244,New York,298,1,257.5,5,1,1,7,Mid-Value,Potential Loyalists
+7717,2023-06-05,658.23,Product B,178463,Tokyo,298,1,658.23,5,1,2,8,High-Value,Potential Loyalists
+6327,2023-06-05,284.12,Product C,297509,London,298,1,284.12,5,1,1,7,Mid-Value,Potential Loyalists
+9622,2023-06-05,371.24,Product A,491738,Tokyo,298,1,371.24,5,1,1,7,Mid-Value,Potential Loyalists
+1878,2023-06-05,365.45,Product A,608149,London,298,1,365.45,5,1,1,7,Mid-Value,Potential Loyalists
+6295,2023-06-05,971.26,Product C,258290,Tokyo,298,1,971.26,5,1,3,9,High-Value,Champions
+3926,2023-06-05,40.96,Product A,608947,London,298,1,40.96,5,1,1,7,Mid-Value,Potential Loyalists
+3223,2023-06-05,467.08,Product A,372793,Tokyo,298,1,467.08,5,1,1,7,Mid-Value,Potential Loyalists
+7622,2023-06-05,519.45,Product A,789606,Tokyo,298,1,519.45,5,1,2,8,High-Value,Potential Loyalists
+8105,2023-06-06,689.91,Product B,459381,Tokyo,297,1,689.91,5,1,2,8,High-Value,Potential Loyalists
+8736,2023-06-06,202.6,Product A,813763,Tokyo,297,1,202.6,5,1,1,7,Mid-Value,Potential Loyalists
+5221,2023-06-06,393.3,Product A,681896,Paris,297,1,393.3,5,1,1,7,Mid-Value,Potential Loyalists
+2391,2023-06-06,62.08,Product B,891083,New York,297,1,62.08,5,1,1,7,Mid-Value,Potential Loyalists
+1305,2023-06-06,722.35,Product C,189913,London,297,2,1234.46,5,3,3,11,High-Value,Champions
+6517,2023-06-06,768.64,Product B,726258,Tokyo,297,1,768.64,5,1,2,8,High-Value,Potential Loyalists
+5990,2023-06-06,513.25,Product B,786393,Tokyo,297,1,513.25,5,1,2,8,High-Value,Potential Loyalists
+4624,2023-06-06,221.22,Product C,447148,Paris,297,1,221.22,5,1,1,7,Mid-Value,Potential Loyalists
+7997,2023-06-06,113.06,Product B,676680,Tokyo,297,1,113.06,5,1,1,7,Mid-Value,Potential Loyalists
+7022,2023-06-06,306.26,Product D,911032,London,297,1,306.26,5,1,1,7,Mid-Value,Potential Loyalists
+1480,2023-06-07,812.58,Product C,161437,Tokyo,296,2,1621.62,5,3,4,12,High-Value,Champions
+9066,2023-06-07,985.51,Product C,614646,London,296,1,985.51,5,1,3,9,High-Value,Champions
+8622,2023-06-07,294.76,Product B,177449,Tokyo,296,1,294.76,5,1,1,7,Mid-Value,Potential Loyalists
+2143,2023-06-07,201.56,Product D,572536,Paris,296,1,201.56,5,1,1,7,Mid-Value,Potential Loyalists
+2926,2023-06-07,140.26,Product B,103704,Paris,296,1,140.26,5,1,1,7,Mid-Value,Potential Loyalists
+2562,2023-06-07,532.88,Product A,340927,London,296,1,532.88,5,1,2,8,High-Value,Potential Loyalists
+1230,2023-06-07,328.99,Product B,118786,New York,296,1,328.99,5,1,1,7,Mid-Value,Potential Loyalists
+5107,2023-06-07,49.09,Product D,686179,Paris,296,1,49.09,5,1,1,7,Mid-Value,Potential Loyalists
+3203,2023-06-07,850.9,Product C,923481,Tokyo,296,1,850.9,5,1,2,8,High-Value,Potential Loyalists
+5114,2023-06-07,909.08,Product A,196781,Tokyo,296,1,909.08,5,1,2,8,High-Value,Potential Loyalists
+7135,2023-06-07,388.65,Product D,493892,New York,296,1,388.65,5,1,1,7,Mid-Value,Potential Loyalists
+9582,2023-06-08,143.9,Product B,788108,London,295,1,143.9,5,1,1,7,Mid-Value,Potential Loyalists
+4517,2023-06-08,195.28,Product C,567676,London,295,1,195.28,5,1,1,7,Mid-Value,Potential Loyalists
+9317,2023-06-08,115.35,Product C,982554,London,295,1,115.35,5,1,1,7,Mid-Value,Potential Loyalists
+1803,2023-06-08,610.34,Product D,973294,Paris,295,2,1033.13,5,3,3,11,High-Value,Champions
+2964,2023-06-08,87.7,Product D,743644,New York,295,1,87.7,5,1,1,7,Mid-Value,Potential Loyalists
+8532,2023-06-08,87.08,Product C,703727,Tokyo,295,1,87.08,5,1,1,7,Mid-Value,Potential Loyalists
+4729,2023-06-08,266.06,Product D,573039,Tokyo,295,1,266.06,5,1,1,7,Mid-Value,Potential Loyalists
+8381,2023-06-08,448.29,Product D,420214,New York,295,1,448.29,5,1,1,7,Mid-Value,Potential Loyalists
+4485,2023-06-08,46.29,Product C,669868,Tokyo,295,1,46.29,5,1,1,7,Mid-Value,Potential Loyalists
+6916,2023-06-09,323.31,Product D,979727,Tokyo,294,1,323.31,5,1,1,7,Mid-Value,Potential Loyalists
+7296,2023-06-09,984.6,Product C,846172,New York,294,1,984.6,5,1,3,9,High-Value,Champions
+5905,2023-06-09,666.75,Product B,377312,New York,294,1,666.75,5,1,2,8,High-Value,Potential Loyalists
+8450,2023-06-09,409.92,Product A,373791,London,294,1,409.92,5,1,1,7,Mid-Value,Potential Loyalists
+6544,2023-06-09,969.96,Product A,162678,Paris,294,1,969.96,5,1,3,9,High-Value,Champions
+4470,2023-06-09,198.12,Product A,883159,Tokyo,294,1,198.12,5,1,1,7,Mid-Value,Potential Loyalists
+7018,2023-06-09,799.32,Product C,940064,New York,294,1,799.32,5,1,2,8,High-Value,Potential Loyalists
+6860,2023-06-09,507.81,Product C,925115,Paris,294,1,507.81,5,1,2,8,High-Value,Potential Loyalists
+4052,2023-06-09,751.51,Product C,139286,New York,294,1,751.51,5,1,2,8,High-Value,Potential Loyalists
+3880,2023-06-09,920.44,Product D,926236,Tokyo,294,1,920.44,5,1,2,8,High-Value,Potential Loyalists
+6761,2023-06-10,571.97,Product B,690462,London,293,1,571.97,5,1,2,8,High-Value,Potential Loyalists
+3213,2023-06-10,700.65,Product B,719531,Tokyo,293,1,700.65,5,1,2,8,High-Value,Potential Loyalists
+2625,2023-06-10,765.11,Product B,377501,New York,293,1,765.11,5,1,2,8,High-Value,Potential Loyalists
+6598,2023-06-10,768.49,Product B,337547,London,293,1,768.49,5,1,2,8,High-Value,Potential Loyalists
+2502,2023-06-10,911.4,Product D,466566,New York,293,1,911.4,5,1,2,8,High-Value,Potential Loyalists
+7498,2023-06-10,717.86,Product A,720859,London,293,1,717.86,5,1,2,8,High-Value,Potential Loyalists
+3443,2023-06-10,99.18,Product A,858711,New York,293,1,99.18,5,1,1,7,Mid-Value,Potential Loyalists
+1509,2023-06-10,410.35,Product D,682959,London,293,1,410.35,5,1,1,7,Mid-Value,Potential Loyalists
+1960,2023-06-10,845.91,Product A,536236,Tokyo,293,1,845.91,5,1,2,8,High-Value,Potential Loyalists
+6570,2023-06-10,125.84,Product C,664032,Paris,293,1,125.84,5,1,1,7,Mid-Value,Potential Loyalists
+1029,2023-06-10,704.99,Product D,992083,New York,293,1,704.99,5,1,2,8,High-Value,Potential Loyalists
+5938,2023-06-10,219.12,Product B,901280,Paris,293,1,219.12,5,1,1,7,Mid-Value,Potential Loyalists
+1990,2023-06-10,791.4,Product C,759104,Tokyo,293,1,791.4,5,1,2,8,High-Value,Potential Loyalists
+4982,2023-06-10,624.79,Product B,972881,Paris,293,1,624.79,5,1,2,8,High-Value,Potential Loyalists
+2970,2023-06-10,759.62,Product B,275284,London,293,1,759.62,5,1,2,8,High-Value,Potential Loyalists
+6669,2023-06-10,941.5,Product C,987025,New York,293,1,941.5,5,1,2,8,High-Value,Potential Loyalists
+8836,2023-06-10,545.36,Product C,512842,London,293,1,545.36,5,1,2,8,High-Value,Potential Loyalists
+1440,2023-06-10,729.94,Product B,559753,Paris,293,1,729.94,5,1,2,8,High-Value,Potential Loyalists
+4759,2023-06-10,804.28,Product D,467544,New York,293,1,804.28,5,1,2,8,High-Value,Potential Loyalists
